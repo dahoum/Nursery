@@ -7,6 +7,14 @@ The most important things about a project is—
 * who is the driving spirit/idea
 * who gives the money
 
+## Scope
+
+### Assumptions
+
+### Out-of-Scope
+
+## Key Milestones and Deadlines
+
 ## Risks
 
 ### People
