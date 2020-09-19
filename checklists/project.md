@@ -27,11 +27,15 @@ Estimating is an art, that's why there is a separate document on [estimation](es
 
 ### Daily Milestones and Deadlines
 
-Setting the project level milestones and deadlines 
+Setting the project level milestones and deadlines is important, but setting daily milestones and deadlines is critical for reaching the project level ones.
+
+What does that mean? Imagine you need something from someone else in order to do your part. There are several ways this conversation can go, some are weaker and carry more risk than others. Here are a few examples.
 
 ## Risks
 
-### People
+## Crew
+
+[Crew](crew.md).
 
 #### Unsuitable Crew Members
 
