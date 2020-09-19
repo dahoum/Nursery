@@ -9,6 +9,7 @@ This is a collection of thoughts and experiences to help me remember and remind 
     - [Scope](checklists/scope.md) (Requirements) 
     - [Estimation](checklists/estimation.md) 
 - [Crew](checklists/crew.md)
+- [Open Source](opensource.md) An introduction to the concepts and business model.
 
 ## Inspiration
 
