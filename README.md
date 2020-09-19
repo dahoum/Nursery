@@ -9,11 +9,14 @@ This is a collection of thoughts and experiences to help me remember and remind 
     - [Scope](scope.md) (Requirements) 
     - [Estimation](estimation.md) 
 - [Crew](crew.md)
+- [Maturity](maturity.md)
 - [Open Source](opensource.md) An introduction to the concepts and business model.
 
 ## Inspiration
 
 The collection is based on my experience. This includes my personal mistakes and successes, for which I have paid in blood, not so much sweat, but many tears, as well as what I have learned from my favourite sources: works of literature, musical condcutors, film producers and directors. I rarely learn from business when when I do, then mostly about bravery, perseverence and survival; not method.
+
+My experience, however, is only the frame of reference. My experience would have been impossible w/o all those, whom I have worked for or w/. This experience belongs to them as much as to me. Not only because they have shed their portion of blood, sweat and tears. But because much if not all of the learning has happened w/in the interaction w/ them.
 
 I am not a quote hunter. What other people have said mostly confirms my own thoughts. See above. I learn from business mostly about bravery. So, if I may use one quote, to underline this intellectual effort, it will be this one:
 
