@@ -22,4 +22,4 @@ I am not a quote hunter. What other people have said mostly confirms my own thou
 
 I help gladly.
 
-Checked my [LinkedIn](https://www.linkedin.com/in/dahoum/) and if you still want to talk to me, drop me a line at t.e.shaw@dahoum.wales.
+Check my [LinkedIn](https://www.linkedin.com/in/dahoum/) and if you still want to talk to me, drop me a line at t.e.shaw@dahoum.wales.
