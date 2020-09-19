@@ -4,11 +4,11 @@ This is a collection of thoughts and experiences to help me remember and remind 
 
 ## Table of Contents
 
-- (Digital) [Product](checklists/product.md) 
-  - [Project](checklists/project.md) 
-    - [Scope](checklists/scope.md) (Requirements) 
-    - [Estimation](checklists/estimation.md) 
-- [Crew](checklists/crew.md)
+- (Digital) [Product](product.md) 
+  - [Project](project.md) 
+    - [Scope](scope.md) (Requirements) 
+    - [Estimation](estimation.md) 
+- [Crew](crew.md)
 - [Open Source](opensource.md) An introduction to the concepts and business model.
 
 ## Inspiration
