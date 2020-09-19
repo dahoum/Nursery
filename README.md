@@ -17,3 +17,9 @@ The collection is based on my experience. This includes my personal mistakes and
 I am not a quote hunter. What other people have said mostly confirms my own thoughts. See above. I learn from business mostly about bravery. So, if I may use one quote, to underline this intellectual effort, it will be this one:
 
 > “When you grow up you tend to get told that the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. That's a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it… Once you learn that, you'll never be the same again.”
+
+# Have a Question or need Help?
+
+I help gladly.
+
+Checked my [LinkedIn](https://www.linkedin.com/in/dahoum/) and if you still want to talk to me, drop me a line at t.e.shaw@dahoum.wales.
