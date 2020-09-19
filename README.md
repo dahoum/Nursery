@@ -10,4 +10,4 @@ The collection is based on my experience. This includes my personal mistakes and
   - [Project](checklists/project.md) 
     - [Scope](checklists/scope.md) (Requirements) 
     - [Estimation](checklists/estimation.md) 
-- [Crew](crew.md)
+- [Crew](checklists/crew.md)
