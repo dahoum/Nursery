@@ -1,5 +1,7 @@
 # Estimation
 
+Estimation is refered to from [project](project.md), but it is a very powerful standalone document as well. To learn about the inspiration and sources of this wisdom, read the introduction to [project](project.md).
+
 ## Laws
 
 There are a number of laws, which can help w/ an estimation.
