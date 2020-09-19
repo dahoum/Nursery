@@ -1,7 +1,5 @@
 # Project Checklist
 
-This project checklist is based on my experience. This includes my personal mistakes and successes, for which I have paid in blood, not so much sweat, but many tears, as well as what I have learned from my favourite sources: works of literature, musical condcutors, film producers and directors. I rarely learn from business when when I do, then mostly about bravery, perseverence and survival; not method.
-
 ## Sponsor
 
 The most important things about a project is—
