@@ -1,0 +1,1 @@
+The license work is pending, but generally the intention will be that this collection can be freely forked and reused on the condition that the author/source must be quoted perpetually and that it can not be converted to a commercial product (eg. a book, etc.) But you can use it to advance your career.
