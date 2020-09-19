@@ -1,6 +1,6 @@
 # Collection
 
-This is a collection of thoughts and experiences to help me remember and remind me. And be useful for others, should they find it so. This collection is the guide for the crews in the projects I lead.
+This is a collection of thoughts and experiences to help me remember and remind me. And be useful for others, should they find it so. This collection is the guide for the crews in all projects I lead.
 
 ## Table of Contents
 
