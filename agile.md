@@ -9,3 +9,5 @@ Since then the amount of Agile methodologies, coaches and certifications has gro
 ## Teaching Common Sense
 
 There is another case, where something similar has happened and this is Design Thinking. Design Thinking begins w/ "empathy", which should be common sense. Not only in interpersonal relationships, but also (and especially) towards a customer. And still, it is taught. Why?
+
+This [Article](https://medium.com/@cwodtke/five-habits-of-design-thinking-45bb61b30393) argues, that common sense is not enough to do Design Thinking. Design Thinking has always been common sense to me. May be because I am 750 years old. Which brings me to another thought: some atheists say, that moral is common sense, but if Design Thinking isn't, is moral really? Or perhaps we should ask: what is common sense actually? Is it something we are genetically born w/, or rather—collective+personal wisdom?
