@@ -13,6 +13,7 @@ This is a collection of thoughts and experiences to help me remember and remind 
 - [Open Source](opensource.md) An introduction to the concepts and business model.
 - [Serverless](serverless.md) An introduction, concepts, benefits and building blocks.
 - [Agile](agile.md) A fresh look.
+- [Education](education.md) My take on education.
 
 ## Inspiration
 
