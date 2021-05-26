@@ -16,6 +16,16 @@ The Technology First beginning strts w/ a a technological innovation, which late
 
 We say technology, because digital products are in fact not only software, and applications, that become possible in software, are frequently underpinned by progress in hardware, which enables the software to do certain things.
 
+## Pre-Engineering
+
+The `Pre-Engineering` phase is v important for low cost of `Engineering`. It is far cheaper to do mockups on paper or in a simple tool, than to fix `Eingineering`.
+
+### Wireframes
+
+#### Explain Wireframes
+
+The `Wireframes Shock` is a surprise when visually inclined `Sponsor` sees black and white lines.
+
 ## Development
 
 Digital products are usually developed through [projects](project.md), which can be less or more formal.
