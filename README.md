@@ -1,6 +1,6 @@
-# Collection
+# Nurseries
 
-This is a collection of thoughts and experiences to help me remember and remind me. It can also be useful for others, if they find it so.
+John le Carré calls, in his books, the MI6 training centre—the nursery. If he can, I can.
 
 ## Table of Contents
 
