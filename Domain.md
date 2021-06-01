@@ -1,13 +1,15 @@
 # Domain
 
-## Represent w/ a Variable/ Tag
+## Represent w/ a Constant/ Variable/ Tag
 
-Represent the domain w/ a variable/ tag everywhere:
+Always represent the domain w/ a constant/ variable/ tag, which is set in a central place for the whole site in a way, which is aware of the environment (eg. production/ live, stage/ acceptance, etc.).
+
+Do this everywhere:
 
 * in the software
-* in the translation/ localisation
+  * eg. when creating callback/ return URLs for API calls
+* in the translation/ localisation string (use tags)
 * in templates
+  * eg. when inserting server side images in email templates
 
-Take the variable/ tag value from a central place, which is aware of the environment (eg. production/ live, stage/ acceptance, etc.)
-
-> else you may end up in a sitiation, where the production/ live site or messages it sends (emails, etc.) lead to the wrong URL.
+Else you may end up in a sitiation, where the production/ live site or messages it sends (emails, etc.) lead to the wrong URL.
