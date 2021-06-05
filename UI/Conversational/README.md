@@ -14,10 +14,14 @@ Established in 2015, botpress pursues a dual open soirce and enterprise model.
 
 ## Resources
 
-### Comparing Microsoft Bot Framework, Botkit, Rasa and botpress 
+### Best Open-Source Chatbots in 2021
+
+_Comparing Microsoft Bot Framework, Botkit, Rasa and botpress._
 
 https://botpress.com/blog/open-source-chatbots
 
+Arthur Weasley famously said "Never trust anything that can think for itself if you can't see where it keeps its brain." Aplly this to AI, known for race and gender bias and non-auditability, and to Conversational UI (AKA ChatBots)—and open source Natural Language Processing suddenly becomes a thing.
+
 ### Google Dialogflow Essentials (ES) vs Customer Experience (CX)
 
-https://chatbotsjournal.com/dialogflow-cx-vs-es-a-complete-overview-33580eca529c 
+https://chatbotsjournal.com/dialogflow-cx-vs-es-a-complete-overview-33580eca529c
