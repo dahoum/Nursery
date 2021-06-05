@@ -1,6 +1,6 @@
 # Nurseries
 
-Nurseries is the "nurseries" part of "[talent scouting](https://github.com/dahoum/TalentScouting/blob/main/Talent.md) & nurseries" label I have chosen to denote what I do professionally.
+Nurseries is the "nurseries" part of the "[talent scouting](https://github.com/dahoum/TalentScouting/blob/main/Talent.md) & nurseries" label I have chosen to denote what I do professionally.
 
 John le Carré calls, in his books, the MI6 training centre—the nursery.
 
