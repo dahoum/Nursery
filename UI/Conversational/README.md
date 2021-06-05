@@ -6,6 +6,10 @@
 
 https://blits.ai
 
+Established in 2018, Blits is a powerful chatbot management platform, allowing you to manage 40+ Natural Language Processing engines from a single platform, use the most suitable one for each specific purpose, centralising the conversation design and billing.
+
+Blits is also a very competent consultancy.
+
 ### botpress
 
 https://botpress.com
