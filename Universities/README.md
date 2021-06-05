@@ -13,3 +13,9 @@ http://linkedin.com/in/asolin Arno Solin
 ### Companies
 
 https://www.spectacularai.com/ implements research of Arno Solin
+
+## Abertay University
+
+https://www.abertay.ac.uk
+
+Dundee, Scotland.
