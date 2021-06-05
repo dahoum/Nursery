@@ -1,6 +1,16 @@
 # Nurseries
 
-John le Carré calls, in his books, the MI6 training centre—the nursery. If he can, I can.
+Nurseries is the "nurseries" part of "[talent scouting](https://github.com/dahoum/TalentScouting/blob/main/Talent.md) & nurseries" label I have chosen to denote what I do professionally.
+
+John le Carré calls, in his books, the MI6 training centre—the nursery.
+
+Nurseries is a collection of thoughts, practices, individuals and ventures.
+
+I use Nurseries as a source of reminders and inspiration to:
+
+* develop talent
+* help the establishment and controlling of Practices
+* help structuring startups and scale ups as well as restructuring organisations
 
 ## Table of Contents
 
