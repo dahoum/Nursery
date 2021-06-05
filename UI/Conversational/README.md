@@ -16,6 +16,12 @@ https://botpress.com
 
 Established in 2015, botpress pursues a dual open soirce and enterprise model.
 
+### Google Dialogflow
+
+https://dialogflow.cloud.google.com
+
+Google Dialogflow Essentials (ES) and Customer Experience (CX) provide everything Google. The good, like clean interfaces as well as the bad: The Hitchhiker's Guide to the Galaxy can easily replace The Total Perspective Vortex w/ the management console of the Google Cloud Platform and remain as efficient in driving people to insanity: just the user roles of the GCP are about 800. Assigning GCP permissions to coworkers should constitute torture under international law. 
+
 ## Resources
 
 ### Best Open-Source Chatbots in 2021
