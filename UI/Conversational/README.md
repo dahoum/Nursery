@@ -30,7 +30,7 @@ _Comparing Microsoft Bot Framework, Botkit, Rasa and botpress._
 
 https://botpress.com/blog/open-source-chatbots
 
-Arthur Weasley famously said "Never trust anything that can think for itself if you can't see where it keeps its brain." Aplly this to AI, known for race and gender bias and non-auditability, and to Conversational UI (AKA ChatBots)—and open source Natural Language Processing suddenly becomes a thing.
+Arthur Weasley famously said "Never trust anything that can think for itself if you can't see where it keeps its brain." Apply this to AI, known for race and gender bias and non-auditability, and to Conversational UI (AKA ChatBots)—and open source Natural Language Processing suddenly becomes a thing.
 
 ### Google Dialogflow Essentials (ES) vs Customer Experience (CX)
 
