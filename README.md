@@ -27,11 +27,11 @@ I use Nurseries as a source of reminders and inspiration to:
 
 ## Inspiration
 
-The collection is based on my experience. This includes my personal mistakes and successes, for which I have paid in blood, not so much sweat, but many tears, as well as what I have learned from my favourite sources: works of literature, musical condcutors, film producers and directors. I rarely learn from business when when I do, then mostly about bravery, perseverence and survival; not method.
+The collection is based on my experience. It includes my personal mistakes and successes, for which I have paid in tears, as well as what I have learned works of literature, musical condcutors, film producers and directors. I rarely learn from business when when I do, then mostly about bravery, perseverence and survival; seldom method.
 
-My experience, however, is only the frame of reference. My experience would have been impossible w/o all those, whom I have worked for or w/. This experience belongs to them as much as to me. Not only because they have shed their portion of blood, sweat and tears. But because much if not all of the learning has happened w/in the interaction w/ them.
+My experience is only the frame of reference. My experience would have been impossible w/o all those, whom I have worked for or w/. This experience belongs to them as much as to me. Not only because they have shed their portion of blood, sweat and tears. But because much if not all of the learning has happened w/in the interaction w/ them.
 
-I am not a quote hunter. What other people have said mostly confirms my own thoughts. See above. I learn from business mostly about bravery. So, if I may use one quote, to underline this intellectual effort, it will be this one:
+If I may use one quote, to underline this intellectual effort, it will be this one:
 
 > “When you grow up you tend to get told that the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. That's a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it… Once you learn that, you'll never be the same again.”
 
