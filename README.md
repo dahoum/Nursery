@@ -14,7 +14,7 @@ I use Nurseries as a source of reminders and inspiration to:
 
 ## Table of Contents
 
-- (Digital) [Product](product.md) 
+- (Digital) [Product](Product/README.md) 
   - [Project](project.md) 
     - [Scope](scope.md) (Requirements) 
     - [Estimation](estimation.md) 
