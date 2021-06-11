@@ -20,3 +20,8 @@ document.addEventListener('keydown', (event) => {
 
 }, false);
 ```
+
+Here is how the event travels
+
+```
+keyboard ---> browser ---> JavaScript Engine Keyboard Event Handler ---> EventListener on keydown
