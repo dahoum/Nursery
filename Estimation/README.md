@@ -1,6 +1,6 @@
 # Estimation
 
-Estimation is refered to from [Project](Project/README.md), but it is a very powerful standalone document as well. To learn about the inspiration and sources of this wisdom, read the introduction to [Project](Project/README.md).
+Estimation is refered to from [Project](../Project/README.md), but it is a very powerful standalone document as well. To learn about the inspiration and sources of this wisdom, read the introduction to [Project](../Project/README.md).
 
 ## Laws
 
