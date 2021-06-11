@@ -4,6 +4,26 @@ This is my research into cooperative forms business organisation, especially in 
 
 ## Ownership and Governance
 
+### Name
+
+The `Cooperative` owns the name.
+
+### Purpose and Quality
+
+The `Purpose` and `Qualaity` are clearly defined and the main guidance.
+
+### Roles/ Freedom and Flexibility
+
+The `Cooperative` is governed by clearly defined roles w/ clear responsibilities.
+
+#### Freedom of Design and Leadership
+
+To promote and support initiative, members can design and lead initiatives.
+
+### Protection and Preservation of Initiatives
+
+The `Cooperative` cannot stop `Initiatives`, which are viable, where viability is defined as earning its own money, or financing its existance through means of support by other cooperative members, reducing one's pay.
+
 ### Challenges and Dangers
 
 #### Founder's Syndrome
