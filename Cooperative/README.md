@@ -4,7 +4,19 @@ This is my research into cooperative forms business organisation, especially in 
 
 ## Ownership and Governance
 
-### Dangers
+### Challenges and Dangers
+
+#### Founder's Syndrome
+
+https://en.wikipedia.org/wiki/Founder%27s_syndrome
+
+Founder's syndrome is an issue organizations experience as they expand. Dynamic founders, who have a strong vision of how to operate the project, try to retain control of the organization, even as new employees or volunteers want to expand the project's scope or change policy.
+
+#### Peter's Principle
+
+https://en.wikipedia.org/wiki/Peter_principle
+
+The Peter Principle is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence": employees are promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another.
 
 #### Hostile Takeover
 
