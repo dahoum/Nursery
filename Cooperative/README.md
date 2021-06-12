@@ -2,43 +2,84 @@
 
 This is my research into cooperative forms business organisation, especially in the areas of (Innovation Driven) Professional Services.
 
-## Ownership and Governance
+## IT Research and Development Cooperative
 
-### Name
+### Vision
+
+A cooperative w/ focus on IT Research and Development.
+
+Members can be individuals and organisations who need Research and Development or who want to work for the cooperative.
+
+Each member has one vote.
+
+The Vision and the cooperative cannot be changed by members voting to change it.
+
+The cooperative is financed by customers who order `IT Research and Development` work.
+
+(Can replicate Fraunhofer, but on another level.)
+
+### Ownership
+
+#### Name
 
 The `Cooperative` owns the name.
 
-### Purpose and Quality
+### Budget
+
+The cooperative has very clear and transparent roles and salary structure, that follows the salary structure of similar establishments (eg. Universities, Fraunhofer, TNO, etc.)
+
+The cooprative has a minimalistic overhead (as minimalistic as possible).
+
+Fixed %s from the overal turnover go into
+
+* PR and sales effort
+* Training of the employees
+* Idle Fund
+* Budget for own Research and Development Projects
+
+### Principles
+
+#### Purpose and Quality
 
 The `Purpose` and `Qualaity` are clearly defined and the main guidance.
 
-### Roles/ Freedom and Flexibility
+#### Roles/ Freedom and Flexibility
 
 The `Cooperative` is governed by clearly defined roles w/ clear responsibilities.
 
-#### Freedom of Design and Leadership
+#### Initiatives
+
+An `Initiative` is a short, medium or long term projects, which can be initiatied by any Member of the Cooperative.
+
+##### Budget
+
+An `Initiative` has own budget. Each `Initiative` has the right of a proportion of the shared internal R&D budget and can attract external budget.
+
+##### Freedom of Design and Leadership of Initiatives
 
 To promote and support initiative, members can design and lead initiatives.
 
-### Protection and Preservation of Initiatives
+#### Protection and Preservation of Initiatives
 
 The `Cooperative` cannot stop `Initiatives`, which are viable, where viability is defined as earning its own money, or financing its existance through means of support by other cooperative members, reducing one's pay.
 
-### Challenges and Dangers
+### Governance
 
-#### Founder's Syndrome
+#### Challenges and Dangers
+
+##### Founder's Syndrome
 
 https://en.wikipedia.org/wiki/Founder%27s_syndrome
 
 Founder's syndrome is an issue organizations experience as they expand. Dynamic founders, who have a strong vision of how to operate the project, try to retain control of the organization, even as new employees or volunteers want to expand the project's scope or change policy.
 
-#### Peter's Principle
+##### Peter's Principle
 
 https://en.wikipedia.org/wiki/Peter_principle
 
 The Peter Principle is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence": employees are promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another.
 
-#### Hostile Takeover
+##### Hostile Takeover
 
 ...
 
