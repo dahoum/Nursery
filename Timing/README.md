@@ -4,7 +4,9 @@
 
 ## Raleigh
 
-The oldest bicycle company in the world.
+https://en.wikipedia.org/wiki/Raleigh_Bicycle_Company
+
+The Notthingham based Raleigh is the oldest bicycle company in the world.
 
 ### Raleigh Vektar
 
