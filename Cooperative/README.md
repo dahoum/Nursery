@@ -2,7 +2,7 @@
 
 This is my research into cooperative forms business organisation, especially in the areas of (Innovation Driven) Professional Services.
 
-## IT Research and Development Cooperative
+## Research and Development Cooperative
 
 ### Vision
 
@@ -17,6 +17,18 @@ The Vision and the cooperative cannot be changed by members voting to change it.
 The cooperative is financed by customers who order `IT Research and Development` work.
 
 (Can replicate Fraunhofer, but on another level.)
+
+### Membershup
+
+Members can be
+
+* Customers as long as they have a contract
+* Employees
+* Subcontractors
+* Partners
+  * Strategic
+  * Cooperation
+  * Research
 
 ### Ownership
 
@@ -82,6 +94,10 @@ The Peter Principle is a concept in management developed by Laurence J. Peter, w
 ##### Hostile Takeover
 
 ...
+
+### Precedence
+
+All new peoposals are given to eimployees, initiatives and partners in order of precedence, who have first right of refusal.
 
 ## Examples
 
