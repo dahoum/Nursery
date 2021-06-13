@@ -117,6 +117,20 @@ The `Cooperative` is governed by clearly defined roles w/ clear responsibilities
 
 An `Initiative` is a short, medium or long term projects, which can be initiatied by any Member of the Cooperative.
 
+The Initiatives are the core internal innovation mechanism.
+
+A strict set of rules guarantees, that:
+
+* everyone can start an initiative
+* nobody can stop a successful initiative, which abides by the rules of the cooperative
+
+##### Rules Supporting Initiatives
+
+* The pricing, earning and salary structure of the cooperative is such, that every employee has 20% of their working time for personal growth, education, training, development of ideas and launch of initiatives.
+* Initiatives born through this 20% rule, can seek internal and external adopters and customers.
+* Initiatives, that attract intrnal or external adopters and customers can grow. For example a person w/ idea can attract second or more persons who contribute their 20% budget to the idea.
+* Initiatives are subject to the [Precedence](#precedence) rule.
+
 ##### Budget
 
 An `Initiative` has own budget. Each `Initiative` has the right of a proportion of the shared internal R&D budget and can attract external budget.
@@ -160,6 +174,15 @@ The Peter Principle is a concept in management developed by Laurence J. Peter, w
 ...
 
 ### Precedence
+
+The Precedence Rule is a key and a complex rule w/ several goals:
+
+* protection of work and ideas of earlier members from hostile takeover by members, who have joined later
+* formexample the founders of the cooperative have precedence and the people who have concieved an idea have precedence
+
+The complexity of the Precedence Rule is that it should not create legacy structures, which hinder progress, as these can lead to the death of the creativity and of the organisation altogether.
+
+Thus, the Precedence Rule should only apply to own ideas, should not give blocking power over new ideas and their initiation and realisation. Such Rules are called Balancing Rules.
 
 All new peoposals are given to eimployees, initiatives and partners in order of precedence, who have first right of refusal.
 
