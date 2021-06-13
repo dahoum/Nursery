@@ -75,6 +75,14 @@ Members can be
 
 The `Cooperative` owns the name.
 
+#### Ideas
+
+All Ideas developed inside the cooperative are owned by the cooperative.
+
+Exception are ideas, developed on order by a customer.
+
+To all Ideas applies the [Precedence](#precedence) rule.
+
 ### Budget
 
 The cooperative has very clear and transparent roles and salary structure, that follows the salary structure of similar establishments (eg. Universities, Fraunhofer, TNO, etc.)
