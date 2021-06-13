@@ -218,9 +218,9 @@ Applied Research
 
 ##### DATEV
 
-My research into the cooperative forms of business organisation—especially in the IT industry—has led me to v intersting discoveries. For example DATEV, which is the leading provider of IT services for accountants and lawyers in Germany, is a coopeative—where members can be only accountants and lawyers, employs 8 000 people and has a €1b of annual turnover.
-
 https://de.m.wikipedia.org/wiki/DATEV
+
+DATEV is the leading provider of IT services for accountants and lawyers in Germany. It is a coopeative, where members can be only accountants and lawyers. DATEV employs 8 000 people and has a €1b of annual turnover.
 
 ##### Duria eG 
 
