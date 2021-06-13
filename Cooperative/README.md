@@ -6,9 +6,11 @@ This is my research into cooperative forms business organisation, especially in 
 
 ### Which Problems Are We Solving.
 
-#### Uncertainty Through Dependency
+#### Uncertainty Through Dependency w/o Control
 
-A supplier-customer relationship, even when excellent, does not solve the problem, that these are teo separate legal entities and the costomer has zero influence over the general business governance of the supplier.
+A supplier-customer relationship, even when excellent both contractually and in tems of human relationships, does not solve the problem, that these are two separate legal entities and the customer has zero influence over the general business governance of the supplier.
+
+This creates uncertainty throuh dependency and blocks deeper and longer partnerships.
 
 This can be solved through exchange of shares, however this is either too weak or too strong.
 
