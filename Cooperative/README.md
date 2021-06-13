@@ -1,8 +1,17 @@
 # Cooperative
 
-This is my research into cooperative forms business organisation, especially in the areas of (Innovation Driven) Professional Services.
+This is my research into cooperative forms of business organisation, especially in the areas of Innovation Driven Professional Services (Research & Development).
 
-## Research and Development Cooperative
+### Audience
+
+This document is intended for
+
+* potential Cooperative founders
+* potential Cooperative customers
+* potential Cooperative employees
+* potential Cooperative partners
+
+## Research & Development Cooperative
 
 ### Which Problems Are We Solving.
 
@@ -10,13 +19,29 @@ This is my research into cooperative forms business organisation, especially in 
 
 A supplier-customer relationship, even when excellent both contractually and in tems of human relationships, does not solve the problem, that these are two separate legal entities and the customer has zero influence over the general business governance of the supplier.
 
-This creates uncertainty throuh dependency and blocks deeper and longer partnerships.
+This creates uncertainty throuh dependency and blocks deeper and longer partnership.
 
-This can be solved through exchange of shares, however this is either too weak or too strong.
+This can be solved through exchange of shares, however this is either too weak or too strong. Too few shares do not give enough control and too many shares are practically a takeover. The interests of other customers are not protected as shareholders have the right of information or he interests of other customers can be overruled, which destroys the value of a broad organisation.
 
-A cooperative can give participation in the governance through voting rights to the customer, while leaving the cooperative fully independent in pursuing other goals as well.
+A cooperative form can give participation in the governance through voting rights to the customer, while leaving the cooperative fully independent in pursuing other goals as well.
 
-#### 
+The broad base of the cooperative, thus, benefits all participants.
+
+A well functioning example is Fraunhofer eV.
+
+#### Knowledge Workers Are The Capital And Deserve A Structural Vote
+
+The premise of this idea is, that running a bodyshop of knowledge workers is not the right way knowledge workers should operate.
+
+The Agile Manifesto, published in 2001, pleaded, above all, for a greater involvement of the knowledge workers in the process.
+
+A R & D Cooperative, where the accumulated capital is owned by all cooperative members (see the [Precedence](#precedence) rule), is a more fair approach, than one or a few individuals owning the result of the worl of everybody, because they started the company in the past and this gives them gradually a larger and larger leverage compared to everybody else.
+
+The driving force behind many a revolution in the past has been social injustice through accumulation of wealth and power either through hereditary systems (such as minarchy) or through unhinged capitalism.
+
+The frequently quoted faied socialist experiment in the East wasn't really a socialism. It was a terror driven, criminal organisation, masked as socialism.
+
+The cooperative movement provides a middle way, where, on one hand the personal contribution and iniciative are rewarded, but on another extreme distortions are prevented, which distortions certainly lead to social unjustice, tampering w/ political and military power.
 
 ### Vision
 
@@ -122,6 +147,10 @@ All new peoposals are given to eimployees, initiatives and partners in order of 
 https://www.genossenschaftsverband.de/site/assets/files/37753/genossenschaftsmodell_zur_beurteilung_einer_sozialversicherungsplicht.pdf
 
 #### Cooperatives
+
+##### Raiffaisen
+
+Umbrella cooperative over 300 000 smaller cooperatives.
 
 ##### Fraunhofer
 
