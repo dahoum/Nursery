@@ -216,6 +216,8 @@ Applied Research
 
 €2,8b annual turnover
 
+Satzung https://www.fraunhofer.de/content/dam/zv/de/ueber-fraunhofer/Satzung-Fraunhofer-Gesellschaft.pdf
+
 ##### DATEV
 
 https://de.m.wikipedia.org/wiki/DATEV
