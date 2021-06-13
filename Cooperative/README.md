@@ -131,6 +131,16 @@ The `Cooperative` cannot stop `Initiatives`, which are viable, where viability i
 
 ### Governance
 
+#### Staying on Course
+
+One of the major fears, when it comes to democratic models (like a democratic country, in fact) is that a bad majority can take the organisation off course.
+
+This is, indeed, a real danger. However it is not a greater danger, than the organisation being take off course, by a small clique at the top.
+
+A democratic process might be slower and might prevent peaks of ingenuinity (which is actually not true, see the section on Initiatives), but it leads to greater overall social wealth, which leads to creater overall hapiness.
+
+The same way democratic countries stay on course w/ the help of a constinution, the Cooperative can stay on course w/ the help of clearly defined vision, mission, rukes of governance and KPIs; all described in this document.
+
 #### Challenges and Dangers
 
 ##### Founder's Syndrome
