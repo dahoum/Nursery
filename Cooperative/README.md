@@ -13,7 +13,7 @@ This document is intended for
 
 ## Research & Development Cooperative
 
-### Which Problems Are We Solving.
+### Which Problems Are We Solving?
 
 #### Uncertainty Through Dependency w/o Control
 
@@ -87,6 +87,21 @@ Fixed %s from the overal turnover go into
 * Training of the employees
 * Idle Fund
 * Budget for own Research and Development Projects
+
+#### Salaries
+
+The cooperative pays salaries following the salary structure of similar organisations:
+
+* Universities
+* Fraunhofer
+
+##### Salary as Talant Attraction And Retention
+
+The premise, that talent is attracted by pay is wrong.
+
+The most powerful driving force is the possibility to control one's destiny.
+
+By giving employees equal vote (and not only on organisational level, but w/in every sub-organisational level, one grants them the ultimate gift in life.
 
 ### Principles
 
