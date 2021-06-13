@@ -4,6 +4,18 @@ This is my research into cooperative forms business organisation, especially in 
 
 ## Research and Development Cooperative
 
+### Which Problems Are We Solving.
+
+#### Uncertainty Through Dependency
+
+A supplier-customer relationship, even when excellent, does not solve the problem, that these are teo separate legal entities and the costomer has zero influence over the general business governance of the supplier.
+
+This can be solved through exchange of shares, however this is either too weak or too strong.
+
+A cooperative can give participation in the governance through voting rights to the customer, while leaving the cooperative fully independent in pursuing other goals as well.
+
+#### 
+
 ### Vision
 
 A cooperative w/ focus on IT Research and Development.
