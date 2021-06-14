@@ -1,5 +1,13 @@
 # Conversational UI
 
+## People
+
+### Steve Worswick
+
+http://linkedin.com/in/steve-worswick-82b748121
+
+Senior Artificial Intelligence Designer, Five Times Winner of the Loebner Prize, kuki.ai
+
 ## Software
 
 ### Blits
