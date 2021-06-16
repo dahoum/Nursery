@@ -1,19 +1,29 @@
 # Cooperative
 
-This is my research into cooperative forms of business organisation, especially in the areas of Innovation Driven Professional Services (Research & Development).
+This is my research into cooperative forms of business organisation, especially in the areas of Innovation Driven Services (Research & Development).
 
 ### Audience
 
-This document is intended for
+This document is intended for potential
 
-* potential Cooperative founders
-* potential Cooperative customers
-* potential Cooperative employees
-* potential Cooperative partners
+* co-founders
+* customers
+* employees
+* strategic partners
+
+of the cooperative.
 
 ## Research & Development Cooperative
 
 ### Which Problems Are We Solving?
+
+#### Need of Qualified and Dedicated, but Fluctuating Quantity of Expertise
+
+Most small and medium size companies have variable need for expertise over the time.
+
+This is especially true in the case of IT services.
+
+Also they can profit greately from a larger support organisation, if (see next point) the Uncertainty Through Dependency w/o Control is resolved.
 
 #### Uncertainty Through Dependency w/o Control
 
