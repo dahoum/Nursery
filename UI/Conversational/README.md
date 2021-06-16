@@ -2,6 +2,12 @@
 
 ## People
 
+### Joseph Weizenbaum
+
+https://en.wikipedia.org/wiki/Joseph_Weizenbaum
+
+Joseph Weizenbaum was a German American computer scientist and a professor at MIT. He is considered one of the fathers of modern artificial intelligence.
+
 ### Steve Worswick
 
 http://linkedin.com/in/steve-worswick-82b748121
@@ -9,6 +15,12 @@ http://linkedin.com/in/steve-worswick-82b748121
 Senior Artificial Intelligence Designer, Five Times Winner of the [Loebner Prize](https://en.wikipedia.org/wiki/Loebner_Prize), kuki.ai
 
 ## Software
+
+## ELIZA
+
+https://en.wikipedia.org/wiki/ELIZA
+
+ELIZA is an early natural language processing computer program created from 1964 to 1966[1] at the MIT Artificial Intelligence Laboratory by Joseph Weizenbaum.
 
 ### Blits
 
