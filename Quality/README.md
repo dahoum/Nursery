@@ -1,5 +1,17 @@
 # Quality
 
+## Begins
+
+Quality begins before even the person has been born or the organisation, product or service thought up.
+
+Why else do we proudly have Made in Germany and Swiss Made? German cars. Swiss watches. French parfume.
+
+## Ends
+
+Quality ends long after the person has died or the organisation  product or service ceased to exist.
+
+Qality people, organisations, products and services may become a legend.
+
 ## Personal Software Process
 
 https://de.wikipedia.org/wiki/Personal_Software_Process
