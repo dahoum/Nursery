@@ -12,6 +12,12 @@ Quality ends long after the person has died or the organisation  product or serv
 
 Qality people, organisations, products and services may become a legend.
 
+## Comtrol Framework
+
+A reliable way of implementing initial quality, which is then gradually enhqnced, is with the help of a Control Framework.
+
+A Control Framework is a set of Controls. Each control has a Name, a Description, a Way of Implementation/ Execution, possibly supported by tools such as Checklists, a Responsible Person, a Frequency, Result from the last check and Recommendations/ TODOs to be fulfilled intil a specific milestones, deadline.
+
 ## Personal Software Process
 
 https://de.wikipedia.org/wiki/Personal_Software_Process
