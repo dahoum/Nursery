@@ -2,9 +2,9 @@
 
 `Digital Product` is a product like any `Product`.
 
-The difference between a `Digital Product` a `Non-Digital Product` is that the core of a `Digital Product` is `software`.
+The difference between a `Digital Product` a `Non-Digital Product` is that the core of a `Digital Product` is delivered and consumed `software` in combination w/ a `hardware`.
 
-Thus a `Digital Product` is developed, delivered, supported and maintained following the laws and practices of `software`.
+Thus a `Digital Product` is developed, delivered, supported and maintained following the laws and practices of `software` in a combination w/ a `hardware`.
 
 ## Ideation
 
@@ -23,6 +23,22 @@ We say technology, because digital products are in fact not only software, and a
 ## Pre-Engineering
 
 The `Pre-Engineering` phase is v important for low cost of `Engineering`. It is far cheaper to do mockups on paper or in a simple tool, than to fix `Eingineering`.
+
+### Prototyping
+
+#### Sand
+
+The simplest, zero carbon prototyping is on sand. You need a nice beach.
+
+#### Chalk Board
+
+The second simplest prototyping is on a chalk board. You need a board and chalk.
+
+#### Paper Based
+
+Paper based is the third simplest prototyping. Paper and anything that can write on paper will suffice.
+
+Paper allows for components to be drawn and cut out moved around. 
 
 ### Wireframes
 
