@@ -6,6 +6,12 @@ The difference between a `Digital Product` a `Non-Digital Product` is that the c
 
 Thus a `Digital Product` is developed, delivered, supported and maintained following the laws and practices of `software` in a combination w/ a `hardware`.
 
+## Common Principles
+
+### 360
+
+Every phase can be driven through a [360](https://github.com/dahoum/Nursery/blob/master/360/README.md#product) degrees process.
+
 ## Ideation
 
 As w/ `Non-Digital Products`, the `Digital Products` begin in two major ways. In practice they are usually interwoven. Observing them separately helps the understanding.
