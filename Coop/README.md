@@ -1,4 +1,4 @@
-# Cooperative
+# Coop
 
 This is my research into cooperative forms of business organisation, especially in the areas of Innovation Driven Services (Research & Development).
 
