@@ -253,3 +253,15 @@ https://de.wikipedia.org/wiki/Qbatur_Planungsbüro
 http://www.denkmalkonzepte.de
 
 Architects specialising in historical houses.
+
+##### SRI International
+
+https://en.wikipedia.org/wiki/SRI_International
+
+SRI International (SRI) is an American nonprofit scientific research institute and organization headquartered in Menlo Park, California. The trustees of Stanford University established SRI in 1946 as a center of innovation to support economic development in the region.
+
+2100 employees
+
+$540m turnover
+
+In 1982 Leslie Lamport, Robert Shostak, and Marshall Pease, while working for SRI, published the paper [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf).
