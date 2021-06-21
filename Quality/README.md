@@ -12,11 +12,21 @@ Quality ends long after the person has died or the organisation  product or serv
 
 Qality people, organisations, products and services may become a legend.
 
-## Comtrol Framework
+## Control Framework
 
 A reliable way of implementing initial quality, which is then gradually enhqnced, is with the help of a Control Framework.
 
 A Control Framework is a set of Controls. Each control has a Name, a Description, a Way of Implementation/ Execution, possibly supported by tools such as Checklists, a Responsible Person, a Frequency, Result from the last check and Recommendations/ TODOs to be fulfilled intil a specific milestones, deadline.
+
+## Absolute Quality
+
+### The Byzantine Generals Problem
+
+https://lamport.azurewebsites.net/pubs/byz.pdf
+
+"Achieving reliability in the face of arbitrary malfunctioning is a difficult problem, and its solution seems to be inherently expensive. The only way to reduce the cost is to make assumptions about the type of failure that may occur."
+
+Leslie Lamport, Robert Shostak, and Marshall Pease
 
 ## Personal Software Process
 
