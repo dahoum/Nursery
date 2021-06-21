@@ -14,8 +14,8 @@ https://en.wikipedia.org/wiki/The_Thing_(listening_device)
 
 https://en.wikipedia.org/wiki/Leslie_Lamport
 
-![](Leslie_Lamport.jpeg)
+![](Portraits/Leslie-Lamport.jpg)
 
 ## William S. Burroughs and Patti Smith
 
-rename the image
+![](Portraits/William-S.-Burroughs-and-Patti-Smith.jpeg)
