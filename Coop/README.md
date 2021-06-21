@@ -264,4 +264,4 @@ SRI International (SRI) is an American nonprofit scientific research institute a
 
 $540m turnover
 
-In 1982 Leslie Lamport, Robert Shostak, and Marshall Pease, while working for SRI, published the paper [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf). The authors were awarded the 2005 Edsger W. Dijkstra Prize for this paper.
+In 1982 Leslie Lamport, Robert Shostak, and Marshall Pease, while working for SRI, published the paper [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf). The authors were awarded the 2005 Edsger W. Dijkstra Prize for this paper. Byzantine fault tolerance is a key concept in DLT/blockchain.
