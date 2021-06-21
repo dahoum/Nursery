@@ -7,9 +7,9 @@
 * Occassionally whole crews can speak.
 
 ```
-1 <---+                   +---> 1
-      |                   |
-1 <---+---> 1 <---> 1 <---+---> 1
-      |                   |
-1 <---+                   +---> 1
+crew member <---+                               +---> crew member
+                |                               |
+crew member <---+---> liaison <---> liaison <---+---> crew member
+                |                               |
+crew member <---+                               +---> crew member
 ```
