@@ -1,5 +1,7 @@
 # Security
 
+The Security must be proportional to the Potential Threat and the Potential Threat can be derived from the Criminal Energy, which might be unlocked by the Potential Reward w/in the context of the Chance of Discovery and Potential Punishment.
+
 ## Personal
 
 ### Minimalist
