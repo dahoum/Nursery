@@ -58,6 +58,15 @@ MFA is actually less secure.
 
 ## Organisational
 
+### Background Checks
+
+Are your people who they say they are?
+
+* Criminal Record?
+* Check of Facts (Contact previous employees, universities, schools)
+
+There are organisations who do background checks as a service.
+
 ### Firewall
 
 ### Anti-Mallware
