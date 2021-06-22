@@ -82,3 +82,5 @@ Your people must VPN into your office and only from there elsewhere.
 ### Jump/ Bastion Servers
 
 DevOps can do System Work only from specially appointed machines w/ continuous screen/ keyboard capture.
+
+### USB Ports
