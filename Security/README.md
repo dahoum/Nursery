@@ -38,10 +38,16 @@ Sometimes hou should add.
 
 For when you lose your computer or it gets stolen.
 
-### Backup w/ Endless Versioning
+### Backup w/ Infinite Versioning
 
 For many reasons.
 
 Ransomware is real.
+
+### String Passeords
+
+Passwords you do not need to write down are the best.
+
+A way to remember such complex passwords is a simple set of rules. For example your favourite poem, where you get the first letter from the first word, the second letter from the second word, etc. You go like this for 12 words. If a letter is a first letter, it it a capital. If a word has less letters, you wrap from the beginning. At the end you add your age and an exclamation mark.
 
 ## Organisational
