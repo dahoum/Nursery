@@ -1,4 +1,4 @@
-# Leaving
+# Leave
 
 ## A Party
 
