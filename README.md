@@ -4,12 +4,12 @@ Nurseries is a collection of notes related to the "nurseries" part of the "[tale
 
 John le Carré calls, in his books, the MI6 training centre—"the nursery".
 
-Nurseries contains thoughts, [Practices](https://github.com/dahoum/Nurseries/tree/master/Practices), individuals and ventures.
+Nurseries contains thoughts, [Practices](Practices/README.md), [People](People/FEADME.md) and ventures.
 
 I use Nurseries as a source of reminders and inspiration to:
 
 * develop talent
-* help the establishment and controlling of Practices
+* help the establishment and growth of Practices
 * help structuring startups and scale ups as well as restructuring organisations
 
 ## Inspiration
