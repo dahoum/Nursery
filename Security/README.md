@@ -48,7 +48,7 @@ For many reasons.
 
 Ransomware is real.
 
-### Strong Passeords
+### Strong Passwords
 
 Passwords you do not need to write down are the best.
 
