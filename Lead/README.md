@@ -6,4 +6,4 @@
 
 #### Bolero w/ London Symphony Orchestra
 
-[![Valery Gergiev, Bolero, London Symphony Orchestra](https://img.youtube.com/vi/GJVWEstu_lM/0.jpg)](https://www.youtube.com/watch?v=GJVWEstu_lM)
+[![Valery Gergiev, Bolero w/ London Symphony Orchestra](https://img.youtube.com/vi/GJVWEstu_lM/2.jpg)](https://www.youtube.com/watch?v=GJVWEstu_lM)
