@@ -11,4 +11,4 @@
 
 ## Product
 
-Product Concepts can be also driven through 360 degrees review process.
+Product Concepts can be also driven through a 360 degrees review process.
