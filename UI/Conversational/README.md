@@ -20,6 +20,12 @@ Senior Artificial Intelligence Designer, Five Times Winner of the [Loebner Prize
 
 ## Software
 
+## Ri
+
+http://representi.com
+
+James Lewis http://linkedin.com/in/james-lewis-81ba6b39
+
 ## ELIZA
 
 https://en.wikipedia.org/wiki/ELIZA
