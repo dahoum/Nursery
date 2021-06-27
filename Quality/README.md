@@ -28,7 +28,13 @@ https://lamport.azurewebsites.net/pubs/byz.pdf
 
 Leslie Lamport, Robert Shostak, and Marshall Pease
 
-## Personal Software Process
+## Personal
+
+### Importance/ Motivation
+
+https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip-wm-prinzip/
+
+### Personal Software Process
 
 https://de.wikipedia.org/wiki/Personal_Software_Process
 
@@ -38,7 +44,9 @@ Der Personal Software Process (PSP) ist eine Methode für Software-Entwickler zu
 
 "Owning" results in higher quality.
 
-## Team Software Process
+## Crew
+
+### Team Software Process
 
 https://de.wikipedia.org/wiki/Team_Software_Process
 
