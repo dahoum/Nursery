@@ -18,7 +18,7 @@ A reliable way of implementing initial quality, which is then gradually enhqnced
 
 A Control Framework is a set of Controls. Each control has a Name, a Description, a Way of Implementation/ Execution, possibly supported by tools such as Checklists, a Responsible Person, a Frequency, Result from the last check and Recommendations/ TODOs to be fulfilled intil a specific milestones, deadline.
 
-## Absolute Quality
+## Absolute
 
 ### The Byzantine Generals Problem
 
