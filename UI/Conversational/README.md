@@ -1,4 +1,4 @@
-# Conversational UI
+# Conversational
 
 ## People
 
@@ -17,6 +17,12 @@ https://www.wsj.com/articles/SB120553421433837797
 http://linkedin.com/in/steve-worswick-82b748121
 
 Senior Artificial Intelligence Designer, Five Times Winner of the [Loebner Prize](https://en.wikipedia.org/wiki/Loebner_Prize), kuki.ai
+
+### James Lewis
+
+http://linkedin.com/in/james-lewis-81ba6b39
+
+Ri http://representi.com
 
 ## Software
 
