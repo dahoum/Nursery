@@ -14,4 +14,4 @@ Mad Men, 2/6 23:60
 
 Don Draper to Pete Campbell, Mad Men, 6/3 23:40
 
-Weak Account Managers pressure their own organisations instead of selling.
+Weak Account Managers focus on their own organisation instead of on the customer.
