@@ -30,6 +30,10 @@ Leslie Lamport, Robert Shostak, and Marshall Pease
 
 ## Personal
 
+## Motivation
+
+https://en.wikipedia.org/wiki/Motivation
+
 ### Importance/ Motivation
 
 https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip-wm-prinzip/
