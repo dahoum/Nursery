@@ -30,7 +30,7 @@ Leslie Lamport, Robert Shostak, and Marshall Pease
 
 ## Personal
 
-## Motivation
+### Motivation
 
 https://en.wikipedia.org/wiki/Motivation
 
