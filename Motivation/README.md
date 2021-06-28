@@ -29,4 +29,4 @@ Importance ^
 
 `DM` develop a method
 
-`2` 
+`2` can be done even after kunch, in any case before `1`
