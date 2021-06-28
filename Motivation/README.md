@@ -1,6 +1,6 @@
 # Motivation
 
-## Importqnce and Motivation
+## Importance and Motivation
 
 https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip-wm-prinzip/
 
@@ -8,12 +8,14 @@ https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip
            ^
 Importance |
            |
+      high |
            |
            |
            |
+       low |
            |
            +-------------------------------------------------------------------->
            
-                                                                   Motivation
+              demitivates me     dows not motivat me     motivates me           Motivation
 
 ```
