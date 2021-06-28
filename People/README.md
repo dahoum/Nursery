@@ -6,6 +6,8 @@ http://linkedin.com/in/billatnapier
 
 Professor of Cruptography at Edinburgh Napier University.
 
+### Hear, hear
+
 https://www.linkedin.com/posts/billatnapier_for-every-ipad-that-we-buy-kids-at-school-activity-6812998920826880001-5juq
 
 ## Leon Theremin
