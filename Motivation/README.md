@@ -15,7 +15,7 @@ Importance ^
        low |   G                 3, D, G                  PPD
            |
            +--------------------------------------------------------------> Motivation      
-              demitivates me     dows not motivat me     motivates me
+              demotivates me     dows not motivat me     motivates me
               
               Re-Think           Danger Of               Top Performance &
               These              Procrastination         Personal Development
