@@ -12,7 +12,7 @@ Importance ^
            |
            |
            |
-       low |   G                 3, D, G                  PPD
+       low |   G                 3, D, G                  PfPD
            |
            +--------------------------------------------------------------> Motivation      
               demotivates me     dows not motivat me     motivates me
@@ -35,4 +35,4 @@ Importance ^
 
 `2` can be done even after lunch, but in any case after `1`
 
-`PPD` potential for personal development
+`PfPD` potential for personal development
