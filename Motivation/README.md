@@ -33,6 +33,6 @@ Importance ^
 
 `DM` develop a method
 
-`2` can be done even after kunch, in any case before `1`
+`2` can be done even after lunch, but in any case before `1`
 
 `PPD` potential for personal development
