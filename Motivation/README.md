@@ -20,6 +20,8 @@ Importance |
 
 ```
 
-`D` delegate
-`GH` get help
+`D` delegate 
+
+`GH` get help 
+
 `CA` change attitide
