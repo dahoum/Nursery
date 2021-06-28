@@ -17,8 +17,8 @@ Importance ^
            +--------------------------------------------------------------> Motivation      
               demitivates me     dows not motivat me     motivates me
               
-              Re-Think           
-              These
+              Re-Think           Danger Of               Top Performance &
+              These              Procrastination         Personal Development
               Activities
 ```
 `D` delegate 
