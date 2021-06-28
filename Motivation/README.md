@@ -4,14 +4,16 @@
 
 https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip-wm-prinzip/
 
-ˋˋˋ
-|
-|
-|
-|
-|
-|
-|
-+-----------------------------------------------
+```
+           ^
+Importance |
+           |
+           |
+           |
+           |
+           |
+           +-------------------------------------------------------------------->
+           
+                                                                   Motivation
 
-ˋˋˋ
+```
