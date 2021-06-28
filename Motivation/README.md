@@ -8,7 +8,7 @@ https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip
            ^
 Importance |
            |
-      high |
+      high |   D, GH, CA
            |
            |
            |
@@ -19,3 +19,6 @@ Importance |
               demitivates me     dows not motivat me     motivates me           Motivation
 
 ```
+`D` delegate
+`GH` get help
+`CA` change attitide
