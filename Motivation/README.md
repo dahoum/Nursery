@@ -15,10 +15,10 @@ Importance ^
        low |   G                 3, D, G                  PfPD
            |
            +--------------------------------------------------------------> Motivation      
-              demotivates me     does not motivat me     motivates me
+              demotivates me     does not motivate me     motivates me
               
-              Re-Think           Danger Of               Top Performance &
-              These              Procrastination         Personal Development
+              Re-Think           Danger Of                Top Performance &
+              These              Procrastination          Personal Development
               Activities
 ```
 `D` delegate 
