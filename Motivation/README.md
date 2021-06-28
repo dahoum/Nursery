@@ -12,10 +12,14 @@ Importance ^
            |
            |
            |
-       low |   G                 3, D, G
+       low |   G                 3, D, G                  PPD
            |
            +--------------------------------------------------------------> Motivation      
               demitivates me     dows not motivat me     motivates me
+              
+              Re-Think           
+              These
+              Activities
 ```
 `D` delegate 
 
@@ -30,3 +34,5 @@ Importance ^
 `DM` develop a method
 
 `2` can be done even after kunch, in any case before `1`
+
+`PPD` potential for personal development
