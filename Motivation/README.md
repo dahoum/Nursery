@@ -7,12 +7,12 @@ h/t [Wichtigkeit-Motivations-Prinzip](https://www.streuverluste.de/fuehrung-mana
 ```
 Importance ^
            |
-      high |   D, GH, ChA         1, DM, D                 2
+      high |  D, GH, ChA         1, DM, D                 2
            |         
            |
            |
            |
-       low |   G                  3, D, G                  PfPD
+       low |  G                  3, D, G                  PfPD
            |
            +--------------------------------------------------------------> Motivation      
               demotivates me     does not motivate me     motivates me
