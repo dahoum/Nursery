@@ -8,11 +8,11 @@ h/t [Wichtigkeit-Motivations-Prinzip](https://www.streuverluste.de/fuehrung-mana
            ^
 Importance |
            |
-      high |   D, GH, CA
+      high |   D, GH, ChA
            |
            |
            |
-       low |
+       low |   G
            |
            +-------------------------------------------------------------------->
            
@@ -24,4 +24,6 @@ Importance |
 
 `GH` get help 
 
-`CA` change attitide
+`ChA` change attitide
+
+`G` garbage
