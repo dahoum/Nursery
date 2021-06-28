@@ -1,5 +1,13 @@
 # People
 
+## Prof. Bill Buchanan
+
+http://linkedin.com/in/billatnapier
+
+Professor of Cruptography at Edinburgh Napier University.
+
+https://www.linkedin.com/posts/billatnapier_for-every-ipad-that-we-buy-kids-at-school-activity-6812998920826880001-5juq
+
 ## Leon Theremin
 
 https://en.wikipedia.org/wiki/Leon_Theremin
