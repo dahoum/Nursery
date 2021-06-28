@@ -5,15 +5,14 @@
 h/t [Wichtigkeit-Motivations-Prinzip](https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip-wm-prinzip/)
 
 ```
-       Importance
-           ^
+Importance ^
            |
-      high |   D, GH, ChA        1, DM, D
+      high |   D, GH, ChA        1, DM, D                 2
            |         
            |
            |
            |
-       low |   G
+       low |   G                 3, D, G
            |
            +--------------------------------------------------------------> Motivation      
               demitivates me     dows not motivat me     motivates me
@@ -29,3 +28,5 @@ h/t [Wichtigkeit-Motivations-Prinzip](https://www.streuverluste.de/fuehrung-mana
 `1` do during your most productive time and before `2`
 
 `DM` develop a method
+
+`2` 
