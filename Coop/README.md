@@ -206,19 +206,25 @@ All new peoposals are given to eimployees, initiatives and partners in order of 
 
 ## Examples
 
-### Germany
+### Deutsches Zentrum für Luft- und Raumfahrt
 
-#### Cooperative of Freelancers
+https://de.wikipedia.org/wiki/Deutsches_Zentrum_für_Luft-_und_Raumfahrt
+
+legal form e.V.
+
+employees 10 000
+
+budget €4b
+
+### Cooperative of Freelancers
 
 https://www.genossenschaftsverband.de/site/assets/files/37753/genossenschaftsmodell_zur_beurteilung_einer_sozialversicherungsplicht.pdf
 
-#### Cooperatives
-
-##### Raiffaisen
+### Raiffaisen
 
 Umbrella cooperative over 300 000 smaller cooperatives.
 
-##### Fraunhofer
+### Fraunhofer
 
 Applied Research
 
@@ -228,13 +234,13 @@ Applied Research
 
 Satzung https://www.fraunhofer.de/content/dam/zv/de/ueber-fraunhofer/Satzung-Fraunhofer-Gesellschaft.pdf
 
-##### DATEV
+### DATEV
 
 https://de.m.wikipedia.org/wiki/DATEV
 
 DATEV is the leading provider of IT services for accountants and lawyers in Germany. It is a coopeative, where members can be only accountants and lawyers. DATEV employs 8 000 people and has a €1b of annual turnover.
 
-##### Duria eG 
+### Duria eG 
 
 https://www.duria.de
 
@@ -242,11 +248,11 @@ https://de.wikipedia.org/wiki/Duria_eG
 
 Die Duria eG ist das einzige genossenschaftlich organisierte Softwarehaus der Ärzte.
 
-##### kiwiko eG
+### kiwiko eG
 
 https://www.kiwiko-eg.com
 
-##### Qbatur Planungsbüro
+### Qbatur Planungsbüro
 
 https://de.wikipedia.org/wiki/Qbatur_Planungsbüro
 
@@ -254,7 +260,7 @@ http://www.denkmalkonzepte.de
 
 Architects specialising in historical houses.
 
-##### SRI International
+### SRI International
 
 https://en.wikipedia.org/wiki/SRI_International
 
