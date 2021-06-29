@@ -1,6 +1,6 @@
 # Motivation
 
-## Importance and Motivation
+## Motivation and Importance
 
 h/t [Wichtigkeit-Motivations-Prinzip](https://www.streuverluste.de/fuehrung-management-wichtigkeit-motivations-prinzip-wm-prinzip/)
 
