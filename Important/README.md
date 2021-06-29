@@ -2,4 +2,4 @@
 
 ## Importance and Motivation
 
-see __Impoirtance and Motivation__ in [Motivation](../Motivation/README.md)
+see __Motivation and Importance__ in [Motivation](../Motivation/README.md)
