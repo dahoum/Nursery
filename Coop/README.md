@@ -1,17 +1,15 @@
 # Coop
 
-This is my research into cooperative forms of business organisation, especially in the areas of Innovation Driven Services (Research & Development).
+This is a research into cooperative forms of business organisation in the areas of Innovation Driven Services (Research & Development, Prototyping).
 
 ### Audience
 
-This document is intended for potential
+This document is intended for potential:
 
 * co-founders
 * customers
 * employees
 * strategic partners
-
-of the cooperative.
 
 ## Research & Development Cooperative
 
@@ -19,39 +17,31 @@ of the cooperative.
 
 #### Need of Qualified and Dedicated, but Fluctuating Quantity of Expertise
 
-Most small and medium size companies have variable need for expertise over the time.
+Some small and medium size companies have variable need for expertise over time.
 
-This is especially true in the case of IT services.
-
-Also they can profit greately from a larger support organisation, if (see next point) the Uncertainty Through Dependency w/o Control is resolved.
+They can profit from a larger partners, who can offer a rich selection.
 
 #### Uncertainty Through Dependency w/o Control
 
-A supplier-customer relationship, even when excellent both contractually and in tems of human relationships, does not solve the problem, that these are two separate legal entities and the customer has zero influence over the general business governance of the supplier.
+A supplier-customer relationship, even when excellent both contractually and in tems of human relatios, does not solve the problem, that these are two separate legal entities and the customer has zero influence over the ownership and governance of the supplier.
 
-This creates uncertainty throuh dependency and blocks deeper and longer partnership.
+This creates uncertainty throuh dependency and can be an obstacle in the way of a deeper and longer partnership.
 
-This can be solved through exchange of shares, however this is either too weak or too strong. Too few shares do not give enough control and too many shares are practically a takeover. The interests of other customers are not protected as shareholders have the right of information or he interests of other customers can be overruled, which destroys the value of a broad organisation.
+This challenge can be addressed through exchange of shares, however this is either too weak or too strong. Too few shares do not give enough control and too many shares are practically a takeover. The interests of other customers are not protected as shareholders have the right of information or the interests of other customers can be overruled, which destroys the value of a broader organisation.
 
-A cooperative form can give participation in the governance through voting rights to the customer, while leaving the cooperative fully independent in pursuing other goals as well.
+A cooperative form can give participation in the governance through voting rights to the customer, while leaving the cooperative fully independent in pursuing its main goals.
 
 The broad base of the cooperative, thus, benefits all participants.
 
-A well functioning example is Fraunhofer eV.
+A well functioning example is Fraunhofer e.V.
 
 #### Knowledge Workers Are The Capital And Deserve A Structural Vote
 
-The premise of this idea is, that running a bodyshop of knowledge workers is not the right way knowledge workers should operate.
+The premise of this idea is, that running a body shop of knowledge workers is not the right way knowledge workers should operate.
 
-The Agile Manifesto, published in 2001, pleaded, above all, for a greater involvement of the knowledge workers in the process.
+The Agile Manifesto, published in 2001, pleades, above all, for greater involvement of the knowledge workers into the process.
 
-A R & D Cooperative, where the accumulated capital is owned by all cooperative members (see the [Precedence](#precedence) rule), is a more fair approach, than one or a few individuals owning the result of the worl of everybody, because they started the company in the past and this gives them gradually a larger and larger leverage compared to everybody else.
-
-The driving force behind many a revolution in the past has been social injustice through accumulation of wealth and power either through hereditary systems (such as minarchy) or through unhinged capitalism.
-
-The frequently quoted faied socialist experiment in the East wasn't really a socialism. It was a terror driven, criminal organisation, masked as socialism.
-
-The cooperative movement provides a middle way, where, on one hand the personal contribution and iniciative are rewarded, but on another extreme distortions are prevented, which distortions certainly lead to social unjustice, tampering w/ political and military power.
+A Research & Development cooperative, where the accumulated capital is owned by all cooperative members (see the [Precedence](#precedence) rule), is a more fair approach, than one or a few individuals owning the result of the worl of everybody, because they started the company in the past and this gives them gradually a larger and larger leverage compared to everybody else.
 
 ### Vision
 
@@ -126,6 +116,8 @@ By giving employees equal vote (and not only on organisational level, but w/in e
 #### Purpose and Quality
 
 The `Purpose` and `Qualaity` are clearly defined and the main guidance.
+
+* prototyping services
 
 #### Roles/ Freedom and Flexibility
 
