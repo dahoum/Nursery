@@ -1,6 +1,6 @@
 # Idea
 
-## ...
+## Trying
 
 Peggy Olson "You really want to help me? Show me how you think. Do it out loud."
 
