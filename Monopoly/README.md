@@ -8,6 +8,10 @@ They sometimes exist and cannot be transformed, but when handled w/ care, they c
 
 For example the government of a country has the monopoly of the legitimate use of physical force.
 
+### Coercive Monopoly
+
+https://en.wikipedia.org/wiki/Coercive_monopoly 
+
 ## Customer-Supplier Monopoly in IT
 
 When a customer orders custom made software from a software company, the relationship is near monopoly.
