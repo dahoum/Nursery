@@ -13,4 +13,4 @@ Prioritise before organising: _"I have two kinds of problems, the urgent and the
 
 ## Motivation and Importance
 
-see __Motivation and Importance__ in [Motivation](../Motivation/README.md)
+see _Motivation and Importance_ in [Motivation](../Motivation/README.md)
