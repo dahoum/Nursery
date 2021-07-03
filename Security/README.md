@@ -86,3 +86,8 @@ Your people must VPN into your office and only from there elsewhere.
 DevOps can do System Work only from specially appointed machines w/ continuous screen/ keyboard capture.
 
 ### USB Ports
+
+## Incidents
+
+[Swedish Coop supermarkets shut due to US ransomware cyber-attack](https://www.bbc.com/news/technology-57707530), 3 July 2021
+
