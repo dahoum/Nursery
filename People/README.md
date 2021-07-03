@@ -29,3 +29,9 @@ https://en.wikipedia.org/wiki/Leslie_Lamport
 ## William S. Burroughs and Patti Smith
 
 ![](Portraits/William-S.-Burroughs-and-Patti-Smith.jpeg)
+
+## Vladimir Putin
+
+Teenage years, KGB and marriage:
+
+https://www.bbc.co.uk/reel/video/p09j5hj3/how-putin-became-a-spy-and-married-lyudmila
