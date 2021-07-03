@@ -11,6 +11,6 @@ Prioritise before organising: _"I have two kinds of problems, the urgent and the
 
 ...
 
-## Importance and Motivation
+## Motivation and Importance
 
-see [Motivation](../Motivation/README.md)
+see __Motivation and Importance__ in [Motivation](../Motivation/README.md)
