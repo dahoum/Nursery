@@ -6,3 +6,11 @@ Prioritise before organising: _"I have two kinds of problems, the urgent and the
 
 * If you have no power to delegate: _escalate_
 * else: _delegate_
+
+## Important and Urgent
+
+...
+
+## Importance and Motivation
+
+see [Motivation](../Motivation/README.md)
