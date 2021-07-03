@@ -55,3 +55,7 @@ The `Wireframes Shock` is a surprise when visually inclined `Sponsor` sees black
 ## Development
 
 Digital products are usually developed through [projects](project.md), which can be less or more formal.
+
+## Self Disript
+
+Do not get comfortable, Self [Disrupt(ion)](../Disruption/README.md).
