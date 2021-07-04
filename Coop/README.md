@@ -24,6 +24,12 @@ They have no special rights compared to the Members who join later, except under
 
 ### Members
 
+All `Customers` and `Employees` can be `Members` of the `Cooperative`.
+
+Not only _can_, but probably _must_, w/in reason.
+
+So, a rule will be probably devised, under which all Customers and Employees must be Members, allowing for some exceptions, where mandatory membership is not practical and membership can be optional.
+
 ### Customers
 
 Customers of the Cooperative can be individuals and organisations, who purchase services from the Cooperative.
