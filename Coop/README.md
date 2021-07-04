@@ -10,12 +10,17 @@ The research and ideas try to solve a number of problems related to in-house and
 
 ## Audience
 
-This document is intended for potential:
+This document is written for individuals and representatives of organisations who are interested in exploring the possibility of taking one of the following roles in the Cooperative`
 
-* co-founders
-* customers
-* employees
-* strategic partners
+### Co-Founders (Members)
+
+### Members
+
+### Customers
+
+### Employees
+
+### Strategic Partners
 
 ## Research & Development Cooperative
 
