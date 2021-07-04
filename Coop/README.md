@@ -1,5 +1,9 @@
 # Coop
 
+## Introduction and Motivation
+
+To decide something alone is difficult. To have two people agree on something, more difficult. A group, nearly impossible. And yet, people do it. From Kindergärten, through schools, to business and large research organisations—the cooperative form is viable and potent. Interestingly, as the Harvard's professor Michael Sandel demonstrates in his course Justice: The Moral Side of Murder (https://youtu.be/kBdfcR-8hEY), the larger the cooperative and the more distant the action from the result—the easier it gets to criticise—eg. people tend to criticise the government as if they do it better, but then ask them to decide where they go on holiday and, oh, boy! Anyway—wanting to challenge myself w/ the cooperative form of thinking, I doing an applied research project, which has the intention to study the possibility of creating a cooperative w/ focus, initially, on research and prototyping in the area of digital products. I am looking for like-minded people, so if curious or interested: ping me.
+
 ## Executive Summary
 
 This is a research into cooperative forms of business organisation in the areas of Innovation Driven Services (Research & Development, Prototyping).
