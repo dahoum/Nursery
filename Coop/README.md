@@ -20,11 +20,15 @@ This document is written for individuals and representatives of organisations wh
 
 The Co-Founders of the Cooperative are the Founding Members.
 
-They have no special rights compared to the Members who join later, except under the [Precedence](#precedence) clause.
+They have no special rights compared to the Members who join later, except under the [Precedence](#precedence) Rule.
 
 ### Members
 
 ### Customers
+
+Customers of the Cooperative can be individuals and organisations, who purchase services from the Cooperative.
+
+A key difference the Cooperative offers, compared to the normal, market based dealings 
 
 ### Employees
 
