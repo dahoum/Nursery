@@ -22,6 +22,8 @@ This document is written for individuals and representatives of organisations wh
 
 The `Employees` of the `Cooperative` may be voting `Members`.
 
+It is desirable, that a meaningful proportion of the `Employees` of the `Cooperative` are voting `Members`, in order to make the Cooperative a viable democratic organisation and differentiate it from regular employment. 
+
 Thus, the `Cooperative` is best suited for professionals, who desire more freedom and control, than a regular employment, and at the same time less responsibility, than a true partnership in a venture.
 
 ### Strategic Partners
