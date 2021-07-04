@@ -1,10 +1,14 @@
 # Coop
 
+## Executive Summary
+
 This is a research into cooperative forms of business organisation in the areas of Innovation Driven Services (Research & Development, Prototyping).
 
 If the ideas gets traction, they will be realised.
 
-### Audience
+The research and ideas try to solve a number of problems related to in-house and outsourced Innovation Driven Services.
+
+## Audience
 
 This document is intended for potential:
 
