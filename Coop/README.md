@@ -20,6 +20,10 @@ This document is written for individuals and representatives of organisations wh
 
 ### Employees
 
+The `Employees` of the `Cooperative` may be voting `Members`.
+
+Thus, the `Cooperative` is best suited for professionals, who desire more freedom and control, than a regular employment, and at the same time less responsibility, than a true partnership in a venture.
+
 ### Strategic Partners
 
 ## Research & Development Cooperative
