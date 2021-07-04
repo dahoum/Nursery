@@ -2,6 +2,8 @@
 
 This is a research into cooperative forms of business organisation in the areas of Innovation Driven Services (Research & Development, Prototyping).
 
+If the ideas gets traction, they will be realised.
+
 ### Audience
 
 This document is intended for potential:
