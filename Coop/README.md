@@ -16,7 +16,11 @@ The research and ideas try to solve a number of problems related to in-house and
 
 This document is written for individuals and representatives of organisations who are interested in exploring the possibility of taking one of the following roles in the Cooperative`
 
-### Co-Founders (Members)
+### Co-Founders
+
+The Co-Founders of the Cooperative are the Founding Members.
+
+They have no special rights compared to the Members who join later, except under the [Precedence](#precedence) clause.
 
 ### Members
 
