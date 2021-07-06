@@ -12,6 +12,18 @@ The less software you have on your computer, the less bad things can happen to y
 
 A string login password protects you in more than one way.
 
+### Strong Passwords
+
+Passwords you do not need to write down are the best.
+
+A way to remember such complex passwords is a simple set of rules. For example your favourite poem, where you get the first letter from the first word, the second letter from the second word, etc. You go like this for 12 words. If a letter is a first letter, it it a capital. If a word has less letters, you wrap from the beginning. At the end you add your age and an exclamation mark.
+
+### 2FA
+
+Always enforce 2FA.
+
+MFA is actually less secure.
+
 ### Screen Lock
 
 Do not leave your computer unlocked.
@@ -47,16 +59,6 @@ For when you lose your computer or it gets stolen.
 For many reasons.
 
 Ransomware is real.
-
-### Strong Passwords
-
-Passwords you do not need to write down are the best.
-
-A way to remember such complex passwords is a simple set of rules. For example your favourite poem, where you get the first letter from the first word, the second letter from the second word, etc. You go like this for 12 words. If a letter is a first letter, it it a capital. If a word has less letters, you wrap from the beginning. At the end you add your age and an exclamation mark.
-
-### 2FA
-
-MFA is actually less secure.
 
 ## Organisational
 
