@@ -10,4 +10,6 @@ _published on LinkedIn_
 
 A basic course on organisational development I once took taught, that if one changes the corporate structure, but not the corporate culture, the legacy culture will twist the changed structure. With the Taliban filling the space freed by the departed US forces w/ the speed of water filling the void left by a removed previously submerged object, one asks—what did 1 000 000 people die for during the 20 years long war on terrorism? And what would have happened if the $5t spent on war was spent on peace? My t-shirt will be fashionable for many years to come: "Usually referred to as the Chilcot report by the news media, the document stated that ... a war was unnecessary." https://en.wikipedia.org/wiki/Iraq_Inquiry
 
+![](Images/8CB1F1DB-B23E-4DBC-9625-61162771C6F8.jpeg)
+
 _published on LinkedIn_
