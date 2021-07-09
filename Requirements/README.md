@@ -8,10 +8,9 @@ https://vm.tiktok.com/ZMd9o5k6k/
 
 ## Friendly
 
-Do not say "This is not in the Requirements."
+`Do Not Say` "This is not in the Requirements."
 
-Say "Hm... Can we check the Specification/ User Story? It might be that we have missed this Requirement."
+`Say Instead` "Hm... Can we check the Specification/ User Story? It might be that we have missed this Requirement."
 
-If you have, indeed, missed it: that's the best way to come out of this situation.
-
-If you have not, and it has, indeed, not been specified/ described: you come out clean and friendly at the same time.
+* If you have, indeed, missed it: that's the best way to come out of this situation.
+* If you have not, and it has, indeed, not been specified/ described: you come out clean and friendly at the same time.
