@@ -2,7 +2,7 @@
 
 ## "Obvious"
 
-There is a tendency, when a projects fail expensively, for the `Requirement`s giver to say that a certain, not given `Requirement`, has been "obvious".
+There is a tendency, when a projects fail expensively, for the `Requirements giver to say that a certain, not given `Requirement`, has been "obvious".
 
 https://vm.tiktok.com/ZMd9o5k6k/
 
