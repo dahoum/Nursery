@@ -1,4 +1,4 @@
-# Meetings
+# Meeting
 
 ## Jour Fixe
 
