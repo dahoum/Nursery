@@ -4,4 +4,4 @@
 
 Why jours fixes are better than ad hoc meetings, explained by Antoine de Saint-Exupéry in The Little Prince.
 
-![](1.png)
+![](Images/902DD0D4-F3CE-48DA-A97B-7648825ED006.png)
