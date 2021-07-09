@@ -6,3 +6,4 @@
 
 ```
 sudo apt install gnome-keyring
+```
