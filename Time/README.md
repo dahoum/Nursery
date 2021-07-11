@@ -28,7 +28,7 @@ __*__ 1985
 
 ## Timeline
 
-### Richard Branson in Space
+### Richard Branson, in Space
 
 Richard Branson flew into space 17 years after founding Virgin Galactic in 2004, 52 years after the Moon landing and 60 years after Gagarin became the first human in space: if your project does not materialise w/in few days, weeks, months or even years—do not fret.
 
