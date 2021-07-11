@@ -32,7 +32,7 @@ __*__ 1985
 
 Richard Branson flew into space 17 years after founding Virgin Galactic in 2004, 52 years after the Moon landing and 60 years after Gagarin became the first human in space: if your project does not materialise w/in few days, weeks, months or even years—do not fret.
 
-_posted on LinkedIn_
+[_posted on LinkedIn_](https://www.linkedin.com/posts/dahoum_time-richard-branson-flew-into-space-17-activity-6820043212606971904-unO-)
 
 ### L'Arc de Triomphe, Wrapped
 
