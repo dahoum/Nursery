@@ -1,6 +1,6 @@
 # Time
 
-Table of Contents
+__Table of Contents__
 
 [Ahead of its Time](#ahead-of-its-time)
 
