@@ -1,5 +1,11 @@
 # Time
 
+Table of Contents
+
+[Ahead of its Time](#ahead-of-its-time)
+
+[Timeline](#timeline)
+
 ## Ahead of its Time
 
 ### 24/7 Self-Service Shop (1965]
