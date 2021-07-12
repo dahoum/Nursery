@@ -4,6 +4,12 @@ The Security must be proportional to the Potential Threat and the Potential Thre
 
 ## Personal
 
+### Bravity 
+
+Failire of IT is not always technology failure of IT—it is sometimes budget failure of the CEO/CFO. In these cases the failure of IT (CTO) is a failure of bravity—that they have not fought or resigned.
+
+_h/t Roy Long_
+
 ### Minimalist
 
 The less software you have on your computer, the less bad things can happen to you.
