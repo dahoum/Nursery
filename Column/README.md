@@ -13,3 +13,11 @@ A basic course on organisational development I once took taught, that if one cha
 ![](Images/8CB1F1DB-B23E-4DBC-9625-61162771C6F8.jpeg)
 
 _published on LinkedIn_
+
+12 July 2021
+
+"How are the mighty fallen..." writes the author of 2 Samuel 1:27 in year 550 BC, and the otherwise sympathetic Google boss fulfills the prophecy in 2021 by calling AI "more profound" than fire, electricity and internet—making the juvenile mistake of perception, where kids think, that the world began approximately when they were born, and see everything preceding them as unnecessary, boring and altogether a bother.
+
+https://www.bbc.com/news/technology-57763382
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_google-boss-sundar-pichai-warns-of-threats-activity-6820312792873099264-XESg)
