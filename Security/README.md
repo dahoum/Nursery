@@ -6,7 +6,7 @@ The Security must be proportional to the Potential Threat and the Potential Thre
 
 ### Bravery 
 
-![]()
+![](Images/874CA277-835C-45EF-9A17-6047C497407F.jpeg)
 
 Failire of IT is not always technology failure of IT—it is sometimes budget failure of the CEO/CFO. In these cases the failure of IT (CTO) is a failure of bravery—that they have not fought or resigned.
 
