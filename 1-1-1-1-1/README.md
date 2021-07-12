@@ -11,3 +11,7 @@ The 1<—(1—>1—>1)<—1 solves this.
 ## Spoiler
 
 Interesting<—(Art—>Teaching—>Networking)<—Reliable
+
+## Ideas for (1—>1—>1)
+
+Create/ establish an [Index](../Index/README.md)) or a Standard.
