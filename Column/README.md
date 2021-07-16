@@ -24,6 +24,6 @@ https://www.bbc.com/news/technology-57763382
 
 ## 16 July 2021
 
-![]()
+![](Images/B7798A54-8789-4581-8C35-A18FBC6BFE4B.jpeg)
 
-Semiotics is the science about signs and symbols. It helps us understand that In the Netherlands, for example, where Homo Bicycle has the same meaning as the Lion being the King of the Jungle; or the Queen of Sheba visiting King Salomon, who granted her every wish; or Moses parting the Red Sea—a "biking forbidden" sign has a completely different meaning, than the same sign, let's say in Germany—a country obsessed w/ cars to the point of suicide through climate change.
+Semiotics is the science about signs and symbols. It helps us understand that in the Netherlands, for example, where Homo Bicycle has the same meaning as the Lion being the King of the Jungle; or the Queen of Sheba visiting King Salomon, who granted her every wish; or Moses parting the Red Sea—a "biking forbidden" sign has a completely different meaning, than the same sign, let's say in Germany—a country obsessed w/ cars to the point of suicide through climate change.
