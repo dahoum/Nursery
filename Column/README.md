@@ -14,10 +14,16 @@ A basic course on organisational development I once took taught, that if one cha
 
 _published on LinkedIn_
 
-12 July 2021
+## 12 July 2021
 
 "How are the mighty fallen..." writes the author of 2 Samuel 1:27 in year 550 BC, and the otherwise sympathetic Google boss fulfills the prophecy in 2021 by calling AI "more profound" than fire, electricity and internet—making the juvenile mistake of perception, where kids think, that the world began approximately when they were born, and see everything preceding them as unnecessary, boring and altogether a bother.
 
 https://www.bbc.com/news/technology-57763382
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_google-boss-sundar-pichai-warns-of-threats-activity-6820312792873099264-XESg)
+
+## 16 July 2021
+
+![]()
+
+Semiotics is the science about signs and symbols. It helps us understand that In the Netherlands, for example, where Homo Bicycle has the same meaning as the Lion being the King of the Jungle; or the Queen of Sheba visiting King Salomon, who granted her every wish; or Moses parting the Red Sea—a "biking forbidden" sign has a completely different meaning, than the same sign, let's say in Germany—a country obsessed w/ cars to the point of suicide through climate change.
