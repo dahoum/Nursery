@@ -6,9 +6,9 @@ Futures Studies
 
 I like the plural: "futures". There are many possible futures. Which one will exactly happen, we do not know.
 
-Here I keep my views on the Futures.
+On this page I keep my views on the Futures.
 
-They are all my oroginal ideas. I may and for sure have been inspired to have them, by facts, events, people and ideas. I may have even encountered them and then forgotten the encounter, thinking they are mine. So, in my honest opinion, they are mine, until I realise it is otherwise.
+They are all my oroginal ideas. I may have and for sure have been inspired to have them, by facts, events, people and ideas. I may have even encountered them and then forgotten the encounter, thinking they are mine. So, in my honest opinion, they are mine, until I realise it is otherwise.
 
 ## Computing
 
