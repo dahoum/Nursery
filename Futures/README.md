@@ -57,6 +57,42 @@ In future every piece of data will be `Wrapped in Logic`.
 
 The `Logic Wrapper` will be responsible for the ownership, privacy, security, transport and interraction w/ other pieces of data, logic, devices and people.
 
+#### Meta-Data
+
+There will be `Meta-Data`, or `Data about the Data`.
+
+```
++---------------+
+|               |
+| Logic Wrapper |
+|               |
+| +-----------+ |
+| |           | |
+| | Meta-Data | |
+| |           | |
+| | +------+  | |
+| | |      |  | |
+| | | Data |  | |
+| | |      |  | |
+| | +------+  | |
+| +-----------+ |
++---------------|
+```
+
+The `Meta-Data` will hold information such as:
+
+* ownership
+* visibility
+  * privacy
+  * permissions (who can see)
+* signatures (stuff, guaranteeing, that the data is unchanged)
+
+#### History of Changes
+
+Somewhere should the `History of Changes` be kept as well.
+
+`Blockchain` comes to mind, not so much the distributed aspect, but the `Immutability`. 
+
 #### Queried
 
 We will not query data the way we do now, but we will send `Requests` and `Messages` through the `Aether`.
