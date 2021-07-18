@@ -59,9 +59,9 @@ The `Logic Wrapper` will be responsible for the ownership, privacy, security, tr
 
 #### Queried
 
-We will not query data the way we do now, but we will send `requests` and `messages` into the aether.
+We will not query data the way we do now, but we will send `Requests` and `Messages` through the `Aether`.
 
-These `requests` and `messages` will be intersepted by the `Logic Wrapper`, which will or will not act on them, depending on the identity of the `Requester`, etc.
+These `Requests` and `Messages` will be intercepted by the `Logic Wrapper`, which will or will not act on them, depending on the identity of the `Requester`, etc.
 
 Respectively, some `Logic Wrappers` will be context aware. For example the `Logic Wrapper` around the `day of birth` will know whose `day of birth` this is and will know how to find the `month of birth` and `year of birth` if requested.
 
