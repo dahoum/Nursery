@@ -26,6 +26,8 @@ Truly Serverless will apply to our own Logic, but also to freely available Logic
 
 Since I have become old enough (or vain enough) to begin giving my opinion on the Futures (I do like the plural, there are more than one futures; which will happen, we do not know)—here is my opinion on the future of Data: In the future, Data will be Serverless, Wrapped in Logic (every little bit of it), it will be Queried and Processed through Messages send through the Aether; while the Logic Wrappers and the Standalone Logic will be executed Truly Serverless.
 
+[_posted on LinkedIn_](https://www.linkedin.com/posts/dahoum_dahoumnursery-activity-6822467415159402496-4Ckm)
+
 #### Serverless
 
 `Serverless Computing` has been a fact for a while.
