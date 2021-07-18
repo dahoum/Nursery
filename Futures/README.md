@@ -10,11 +10,25 @@ Here I keep my views on the Futures.
 
 They are all my oroginal ideas. I may and for sure have been inspired to have them, by facts, events, people and ideas. I may have even encountered them and then forgotten the encounter, thinking they are mine. So, in my honest opinion, they are mine, until I realise it is otherwise.
 
+## Computing
+
+### Truly Serverless
+
+`Serverless Computing` has been a fact for a while, though it is still bound to a specific provider.
+
+In the future there will be `Serverless Computing` detached from the provider. All providers will be a pool and our logic will execute on the most suitable.
+
+This already exists in the cases of energy distribution or ISP. Our ISP is only the gateway, where the Internet flows after that is not our concern.
+
 ## Data
 
 In the future `Data` will be `Serverless` and `Wrapped in Logic`.
 
 ### Serverless
+
+`Serverless Computing` has been a fact for a while.
+
+In the future we will have `Serverless Data`. This will require the `Data` to be `Wrapped in Logic`.
 
 ### Wrapped in Logic
 
