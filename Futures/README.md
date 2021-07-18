@@ -12,6 +12,10 @@ They are all my oroginal ideas. I may and for sure have been inspired to have th
 
 ## Data
 
-I believe, that in future every piece of data will be wrapped in logic, which will be responsible for its security, transport and interraction w/ other pieces of data, logic, devices and people.
+I believe, that in future every piece of data will be wrapped in logic, which will be responsible for its ownership,  privacy, security, transport and interraction w/ other pieces of data, logic, devices and people.
 
 We will notmquery data the way we do now, but we will "shout", sending "messages" and "questions" and the logic, wrapped around the data, data will "answer".
+
+Respectively some data logic will be context aware. For example the logic wrapping the day of birth will know that there is month and year of birth.
+
+Then there will be logic w/o data. For example `birth` will be one such logic, which is aware of all aspects of birth: date, place, parents, etc. We can ask this logic a more general question and it will, in turn, assemble the answer, provided we have the right to access it.
