@@ -20,17 +20,19 @@ In the future there will be `Serverless Computing` detached from the provider. A
 
 This already exists in the cases of energy distribution or ISP. Our ISP is only the gateway, where the Internet flows after that is not our concern.
 
+Truly Serverless will apply to our own Logic, but also to freely available Logic (free to use or pay to use, this is irellevant).
+
 ## Data
 
 In the future `Data` will be `Serverless` and `Wrapped in Logic`.
 
-### Serverless
+#### Serverless
 
 `Serverless Computing` has been a fact for a while.
 
 In the future we will have `Serverless Data`. This will require the `Data` to be `Wrapped in Logic`.
 
-### Wrapped in Logic
+#### Wrapped in Logic
 
 In future every piece of data will be `Wrapped in Logic`.
 
@@ -49,11 +51,15 @@ In future every piece of data will be `Wrapped in Logic`.
 
 The `Logic Wrapper` will be responsible for the ownership, privacy, security, transport and interraction w/ other pieces of data, logic, devices and people.
 
+#### Queried
+
 We will not query data the way we do now, but we will send `requests` and `messages` into the aether.
 
 These `requests` and `messages` will be intersepted by the `Logic Wrapper`, which will or will not act on them, depending on the identity of the `Requester`, etc.
 
 Respectively, some `Logic Wrappers` will be context aware. For example the `Logic Wrapper` around the `day of birth` will know whose `day of birth` this is and will know how to find the `month of birth` and `year of birth` if requested.
+
+#### Processed
 
 Then there will be `Logic w/o Data`. This will be `Higher Order of Logic`. For example `birth` will be one such logic, which is aware of all aspects of birth:
 
@@ -62,6 +68,8 @@ Then there will be `Logic w/o Data`. This will be `Higher Order of Logic`. For e
 * parents, etc.
 
 We can ask this logic a more general question and it will, in turn, assemble the answer.
+
+Needless to say, this `Logic` will be [Trully Serverless](#truly-serverless).
 
 ## IT
 
