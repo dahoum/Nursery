@@ -18,15 +18,36 @@ In the future `Data` will be `Serverless` and `Wrapped in Logic`.
 
 ### Wrapped in Logic
 
-IIn future every piece of data will be `Wrapped in Logic`.
+In future every piece of data will be `Wrapped in Logic`.
 
-The  which will be responsible for its ownership,  privacy, security, transport and interraction w/ other pieces of data, logic, devices and people.
+```
++---------------+
+|               |
+| Logic Wrapper |
+|               |
+| +------+      |
+| |      |      |
+| | Data |      |
+| |      |      |
+| +------+      |
++---------------|
+```
 
-We will notmquery data the way we do now, but we will "shout", sending "messages" and "questions" and the logic, wrapped around the data, data will "answer".
+The `Logic Wrapper` will be responsible for the ownership, privacy, security, transport and interraction w/ other pieces of data, logic, devices and people.
 
-Respectively some data logic will be context aware. For example the logic wrapping the day of birth will know that there is month and year of birth.
+We will not query data the way we do now, but we will send `requests` and `messages` into the aether.
 
-Then there will be logic w/o data. For example `birth` will be one such logic, which is aware of all aspects of birth: date, place, parents, etc. We can ask this logic a more general question and it will, in turn, assemble the answer, provided we have the right to access it.
+These `requests` and `messages` will be intersepted by the `Logic Wrapper`, which will or will not act on them, depending on the identity of the `Requester`, etc.
+
+Respectively, some `Logic Wrappers` will be context aware. For example the `Logic Wrapper` around the `day of birth` will know whose `day of birth` this is and will know how to find the `month of birth` and `year of birth` if requested.
+
+Then there will be `Logic w/o Data`. This will be `Higher Order of Logic`. For example `birth` will be one such logic, which is aware of all aspects of birth:
+
+* date
+* place
+* parents, etc.
+
+We can ask this logic a more general question and it will, in turn, assemble the answer.
 
 ## IT
 
