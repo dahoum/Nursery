@@ -30,6 +30,8 @@ Semiotics is the science about signs and symbols. It helps us understand that in
 
 ## 19 July 2021
 
-![](Images/
+![](Images/421A1CAE-5107-4F2F-8B40-0A07B3355C74.jpeg)
 
 The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once I began reading Aleksandr Solzhenitsyn's The Gulag Archipelago and I could read only up to a point. Mark Twain is quoted saying: “Truth is stranger than Fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.” Stephen King's books are pale in comparison w/ the reality facing women around the world. There are many forms of inequality. There are rich and poor, there are white and people of colour. There are women. John Lennon and Yoko Ono wrote in 1972 Woman Is the Nigger of the World. If someone thinks women are not, because they do not want to—one's world view is very, very narrow.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_the-womens-atlas-understanding-inequality-activity-6822979022239096832-oW-w)
