@@ -27,3 +27,9 @@ https://www.bbc.com/news/technology-57763382
 ![](Images/B7798A54-8789-4581-8C35-A18FBC6BFE4B.jpeg)
 
 Semiotics is the science about signs and symbols. It helps us understand that in the Netherlands, for example, where Homo Bicycle has the same meaning as the Lion being the King of the Jungle; or the Queen of Sheba visiting King Salomon, who granted her every wish; or Moses parting the Red Sea—a "biking forbidden" sign has a completely different meaning, than the same sign, let's say in Germany—a country obsessed w/ cars to the point of suicide through climate change.
+
+## 19 July 2021
+
+![](Images/
+
+The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once I began reading Aleksandr Solzhenitsyn's The Gulag Archipelago and I could read only up to a point. Mark Twain is quoted saying: “Truth is stranger than Fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.” Stephen King's books are pale in comparison w/ the reality facing women around the world. There are many forms of inequality. There are rich and poor, there are white and people of colour. There are women. John Lennon and Yoko Ono wrote in 1972 Woman Is the Nigger of the World. If someone thinks women are not, because they do not want to—one's world view is very, very narrow.
