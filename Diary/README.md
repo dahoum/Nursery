@@ -8,8 +8,9 @@ The `Project Diary` is one of the simples and most powerful instruments. On 1/2 
 * What is the general situation around each person?
 * Who will be focusing on what today?
 * What was achieved?
+* Miscellaneous.
 
-It is a summary instrument and does _not_ replace, and should not duplicate any instrument, though a skilled person w/ a good crew can manage complex projects w/ a diary only.
+The `Project Diary` is a summary instrument, a concentrator of information, easy to edit by anyone (thus it requires version history, so best keep it in git) and does _not_ replace, and should not duplicate any instrument, though a skilled person w/ a good crew can manage complex projects w/ a diary only.
 
 Many thanks to my friend and a brilliant project manager [Nav Wik](http://linkedin.com/in/navwic) for teaching me about _focus points_ (the hard way, due to my resistance to change), and as well to gallery WestLicht in Vienna, where I saw how a complex gallery can be operated w/ a weekly breakfast and a simple diary.
 
