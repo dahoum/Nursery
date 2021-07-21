@@ -42,3 +42,19 @@ _Here are listed all focus points for the day, who will work on what. Do not dup
 * focus point
 
 Result
+
+`Person`/`Topic`
+
+* result `Topic`/`Person`
+* result `Topic`/`Person`
+* result `Topic`/`Person`
+
+Next
+
+_What should be done next from today's point of view._
+
+`Person`/`Topic`
+
+* focus point `Topic`/`Person`
+* focus point `Topic`/`Person`
+* focus point `Topic`/`Person`
