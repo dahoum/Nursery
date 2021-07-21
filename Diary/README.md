@@ -17,3 +17,19 @@ _Here are listed all roles, the people in them and current facts about this pers
 * `Role` `Person` _facts_ 
 * `Role` `Person` _facts_ 
 * `Role` `Person` _facts_ 
+
+Focus Points
+
+_Here are listed all focus points for the day, who will work on what. Do not duplicate information. If someone is working on an Issue w/ a ticket, mention the ticket and link it._
+
+`Person`
+
+* focus point
+* focus point
+* focus point
+
+`Person`
+
+* focus point
+* focus point
+* focus point
