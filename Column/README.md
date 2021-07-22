@@ -43,3 +43,11 @@ The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once 
 "You build bridges using waterfall and software using agile," I like to say. Which is only partially true—lies-to-children (https://en.wikipedia.org/wiki/Lie-to-children), as Jack Cohen, Ian Stewart and Terry Pratchett call it, based on work by Wittgenstein and Kierkegaard. The truth is—agile applies to buildings, too: "slow agile", we may call it. A good example for "slow agile" is the British Museum, which has a Victorian facade and a Queen Elizabeth II Great Court redeveloped in the 90s based on the 70s design by Sir Colin St John Wilson. It's a matter of time perspective.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_you-build-bridges-using-waterfall-and-software-activity-6823901332810817536-QByd)
+
+## 22 July 2021
+
+![](Images/Bildschirmfoto 2021-07-22 um 23.04.41.png)
+
+"Come over here Mr. Abrahams. Now do you know why you've lost the other day? Because you are over striding. Just a couple of inches. These coins represent the strides in your 100 meters. Have you got another two coins Mr. Abrahams? Or may be we can find them?" Sam Mussabini coaching Harold Abrahams in Chariots of Fire. You need a good coach not to reach your 98%. You need a good coach to reach the last 2%.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_come-over-here-mr-abrahams-now-do-you-activity-6824084522867421184-xBaR)
