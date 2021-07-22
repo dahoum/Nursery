@@ -44,6 +44,12 @@ https://de.wikipedia.org/wiki/Personal_Software_Process
 
 Der Personal Software Process (PSP) ist eine Methode für Software-Entwickler zur Selbstoptimierung und Qualitätssteigerung.
 
+### Build
+
+Does the project build after your changes?
+
+Locally?
+
 ### Ownership
 
 "Owning" results in higher quality.
