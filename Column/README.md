@@ -46,7 +46,7 @@ The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once 
 
 ## 22 July 2021
 
-![](Images/Bildschirmfoto 2021-07-22 um 23.04.41.png)
+![](Images/Bildschirmfoto_2021-07-22_um_23.04.41.png)
 
 "Come over here Mr. Abrahams. Now do you know why you've lost the other day? Because you are over striding. Just a couple of inches. These coins represent the strides in your 100 meters. Have you got another two coins Mr. Abrahams? Or may be we can find them?" Sam Mussabini coaching Harold Abrahams in Chariots of Fire. You need a good coach not to reach your 98%. You need a good coach to reach the last 2%.
 
