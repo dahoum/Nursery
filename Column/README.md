@@ -35,3 +35,11 @@ Semiotics is the science about signs and symbols. It helps us understand that in
 The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once I began reading Aleksandr Solzhenitsyn's The Gulag Archipelago and I could read only up to a point. Mark Twain is quoted saying: “Truth is stranger than Fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.” Stephen King's books are pale in comparison w/ the reality facing women around the world. There are many forms of inequality. There are rich and poor, there are white and people of colour. There are women. John Lennon and Yoko Ono wrote in 1972 Woman Is the Nigger of the World. If someone thinks women are not, because they do not want to—one's world view is very, very narrow.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_the-womens-atlas-understanding-inequality-activity-6822979022239096832-oW-w)
+
+## 21 July 2021
+
+![](Images/IMG_1374.JPG)
+
+"You build bridges using waterfall and software using agile," I like to say. Which is only partially true—lies-to-children (https://en.wikipedia.org/wiki/Lie-to-children), as Jack Cohen, Ian Stewart and Terry Pratchett call it, based on work by Wittgenstein and Kierkegaard. The truth is—agile applies to buildings, too: "slow agile", we may call it. A good example for "slow agile" is the British Museum, which has a Victorian facade and a Queen Elizabeth II Great Court redeveloped in the 90s based on the 70s design by Sir Colin St John Wilson. It's a matter of time perspective.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_you-build-bridges-using-waterfall-and-software-activity-6823901332810817536-QByd)
