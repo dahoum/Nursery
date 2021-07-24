@@ -71,7 +71,8 @@ Switching the resource measurement from application level to the level of the in
 
 * [Fauna](https://fauna.com)
   * Probably the most Jamstack Serverless database out there.
-
+  * since 7 July 2021 Fauna supports Region Groups (see the [Announcement](https://fauna.com/blog/meeting-data-residence-and-increasing-performance-with-fauna-region-groups)), which open the door for applications w/ strict compliancy restrictions on the location of the data.
+  
 ### Search as a Service
 
 #### Algolia
