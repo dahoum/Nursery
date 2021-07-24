@@ -56,6 +56,6 @@ The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once 
 
 ![](Images/IMG_1387.jpeg)
 
-My first WD-40. My fascination w/ lubricating oil began when I read Zen and the Art of Motorcycle Maintenance during my early—early early teenage years. For many years I believed WD-40 was mentioned there. Today I looked. It's not WD-40, but SAE-30. Both Zen and WD-40 are case studies in Semiotics and while Robert M. Pirsig passed in 2017, [Garry Ridge](https://www.linkedin.com/in/garryridge/) is still around to inspire, while still alive.
+My first WD-40. My fascination w/ lubricating oil began when I read Zen and the Art of Motorcycle Maintenance during my early—early early teenage years. For many years I believed WD-40 was mentioned there. Today I looked. It's not WD-40, but SAE-30. Both Zen and WD-40 are case studies in Semiotics, and while Robert M. Pirsig passed in 2017, [Garry Ridge](https://www.linkedin.com/in/garryridge/) is still around to inspire, while still alive.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_my-first-wd-40-my-fascination-w-lubricating-activity-6824798557309034496-Eov9)
