@@ -4,7 +4,9 @@ According to Wikipedia Jamstack comes from JavaScript, something, something.
 
 I have a better idea.
 
-Jamstack is jam stack. The same way in jazz there are jam sessions. Jamstack is a world of services, which allows you to code and build digital products and services, w/o the need to take care of installing and running servers, because Jamstack is Serverless: all you need after you have written the code is a payment method (and in many cases not even that, most Jamstack services have a free plan, which is enough to try, develop and even run early stage projects).
+Jamstack is jam stack. The same way in jazz there are jam sessions.
+
+Jamstack is a world of services, which allows you to code and build digital products and services, w/o the need to take care of installing and running servers, because Jamstack is Serverless: all you need after you have written the code is a payment method (and in many cases not even that, most Jamstack services have a free plan, which is enough to try, develop and even run early stage projects).
 
 ## How is Jamstack different from Amazon AWS, Microsoft Azure and Google Cloud Platform?
 
