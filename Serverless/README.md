@@ -8,5 +8,4 @@ Serverless is Cloud Native.
 
 Serverless is like cooking proper vegetarian food, plant based by design.
 
-## Benefits
-
+For more on Serverless, see [Jamstack](../Jamstack/README.md)
