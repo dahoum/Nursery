@@ -51,3 +51,11 @@ The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once 
 "Come over here Mr. Abrahams. Now do you know why you've lost the other day? Because you are over striding. Just a couple of inches. These coins represent the strides in your 100 meters. Have you got another two coins Mr. Abrahams? Or may be we can find them?" Sam Mussabini coaching Harold Abrahams in Chariots of Fire. You need a good coach not to reach your 98%. You need a good coach to reach the last 2%.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_come-over-here-mr-abrahams-now-do-you-activity-6824084522867421184-xBaR)
+
+## 24 July 2021
+
+![](Images/IMG_1387.jpeg)
+
+My first WD-40. My fascination w/ lubricating oil began when I read Zen and the Art of Motorcycle Maintenance during my early—early early teenage years. For many years I believed WD-40 was mentioned there. Today I looked. It's not WD-40, but SAE-30. Both Zen and WD-40 are case studies in Semiotics and while Robert M. Pirsig passed in 2017, [Garry Ridge](https://www.linkedin.com/in/garryridge/) is still around to inspire while still alive.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_my-first-wd-40-my-fascination-w-lubricating-activity-6824798557309034496-Eov9)
