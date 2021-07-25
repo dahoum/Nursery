@@ -4,6 +4,8 @@ A study in Die Zeit once concluded, that most successful marriages have two thin
 
 ## Research
 
+https://de.wikipedia.org/wiki/John_Gottman
+
 John Gottman, mentioned in https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/
 
 ## Art
