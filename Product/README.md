@@ -6,6 +6,12 @@ The difference between a `Digital Product` a `Non-Digital Product` is that the c
 
 Thus a `Digital Product` is developed, delivered, supported and maintained following the laws and practices of `software` in a combination w/ a `hardware`.
 
+## Governance and Roles
+
+### Manager
+
+see Column, [25 July](https://github.com/dahoum/Nursery/tree/master/Column#25-july)
+
 ## Common Principles
 
 ### 360
