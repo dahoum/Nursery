@@ -62,7 +62,7 @@ My first WD-40. My fascination w/ lubricating oil began when I read Zen and the 
 
 ## 25 July
 
-![](Images/
+![](Images/Column/Images/9E126674-5EDC-4069-993F-FDA5825B4F4F.jpeg)
 
 Might sound a bit harsh, but even the Bible includes a warning: "Not many \[of you] should become teachers \[serving in an official teaching capacity], my brothers and sisters, for you know that we \[who are teachers] will be judged by a higher standard \[because we have assumed greater accountability and more condemnation if we teach incorrectly]." (James 1:3, Amplified Bible)
 
