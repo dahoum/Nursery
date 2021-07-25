@@ -59,3 +59,13 @@ The Women's Atlas. Understanding Inequality. 164 Infographics and Maps /// once 
 My first WD-40. My fascination w/ lubricating oil began when I read Zen and the Art of Motorcycle Maintenance during my early—early early teenage years. For many years I believed WD-40 was mentioned there. Today I looked. It's not WD-40, but SAE-30. Both Zen and WD-40 are case studies in Semiotics, and while Robert M. Pirsig passed in 2017, [Garry Ridge](https://www.linkedin.com/in/garryridge/) is still around to inspire, while still alive.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_my-first-wd-40-my-fascination-w-lubricating-activity-6824798557309034496-Eov9)
+
+## 25 July
+
+![](Images/
+
+Might sound a bit harsh, but even the Bible includes a warning: "Not many \[of you] should become teachers \[serving in an official teaching capacity], my brothers and sisters, for you know that we \[who are teachers] will be judged by a higher standard \[because we have assumed greater accountability and more condemnation if we teach incorrectly]." (James 1:3, Amplified Bible)
+
+Psychology of Misunderstandings is a profound discipline. A successful Product Manager needs a galaxy of skills to be successful—and a universe, to be loved.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_might-sound-a-bit-harsh-but-even-the-bible-activity-6825178126444716032--0Ae)
