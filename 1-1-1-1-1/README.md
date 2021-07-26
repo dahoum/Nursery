@@ -9,8 +9,12 @@ Working w/ talented people brings, sooner or later, one topic. They get bored. T
 The 1<—(1—>1—>1)<—1 solves this.
 
 ## Spoiler
-
+```
 Interesting<—(Networking<—Teaching<—Art)<—Reliable
+                              |
+                              v
+                            Depth
+```
 
 ## Ideas for (1—>1—>1)
 
