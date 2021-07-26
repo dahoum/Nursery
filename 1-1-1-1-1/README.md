@@ -1,4 +1,4 @@
-# 1<—(1—>1—>1)<—1
+# 1<—(1<—1<—1)<—1
 
 
 
@@ -10,7 +10,7 @@ The 1<—(1—>1—>1)<—1 solves this.
 
 ## Spoiler
 
-Interesting<—(Art—>Teaching—>Networking)<—Reliable
+Interesting<—(Networking<—Teaching<—Art)<—Reliable
 
 ## Ideas for (1—>1—>1)
 
