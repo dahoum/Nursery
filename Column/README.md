@@ -91,3 +91,11 @@ The intellectual complexity of this line work and the required perseverance are 
 I have a few of those geniuses, and we are founding a Club of the Unhinged and Restless Geniuses—to satisfy the abyss of our intellectual drive. Think of it as an opium den: The Opium Den of the Unhinged and Restless Geniuses. You are welcome.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_there-is-a-kind-of-restless-and-unchanneled-activity-6825890825495441408-KZBX)
+
+### 28 July
+
+![](Images/8DBD82D9-30A0-4D45-A484-247D52D5CBFF.png)
+
+Employer or employee, if you want a good film about work-life-balance, Kramer v Kramer. Besides—if you havn't seen Dustin Hoffman as a young actor, you havn't seen Dustin Hoffman.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_employer-or-employee-if-you-want-a-good-activity-6825929087618453504-0axc)
