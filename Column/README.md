@@ -84,10 +84,10 @@ That's me. I don't wanna crew members, who apply for a job, and then, if I did n
 
 ![](Images/Bildschirmfoto_2021-07-27_um_22.38.00.png)
 
-There is a kind of restless and unchanneled geniuses, who re-purposes things in a way, which leaves one speechless. An example—building a computer, using the tracks, signals and the moving trains of a train simulator, which drives a 7-segment LED counter: https://youtu.be/GTjQa70wwCc
+There is a kind of unhinged and restless geniuses, who re-purposes things in a way, which leaves one speechless. An example—building a computer, using the tracks, signals and the moving trains of a train simulator, which drives a 7-segment LED counter: https://youtu.be/GTjQa70wwCc
 
 The intellectual complexity of this line work and the required perseverance are similar to these required in the field of Theoretical Physics, par example. The uselessness—too. The major difference is that it is that building a computer out of trains is a much cheaper hobby than, say—Astrophysics.
 
-I have a few of those geniuses, and we are founding a Club of the Restless and Unhinged Geniuses—to satisfy the abyss of our intellectual drive. Think of it as an opium den: The Opium Den of the Unhinged and Restless Geniuses. You are welcome.
+I have a few of those geniuses, and we are founding a Club of the Unhinged and Restless Geniuses—to satisfy the abyss of our intellectual drive. Think of it as an opium den: The Opium Den of the Unhinged and Restless Geniuses. You are welcome.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_there-is-a-kind-of-restless-and-unchanneled-activity-6825890825495441408-KZBX)
