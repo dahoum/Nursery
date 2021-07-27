@@ -16,7 +16,7 @@ Many thanks to my friend and a brilliant project manager [Nav Wik](http://linked
 
 _An Example_
 
-### 21 July
+### 27 July
 
 Governance and Crew
 
@@ -33,6 +33,10 @@ _Repeate key facts every day._
 * Estimation and current burn rate.
 * Next milestones.
 * Deadline.
+
+Risks
+
+* ...
 
 Focus Points
 
