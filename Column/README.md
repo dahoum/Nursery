@@ -74,7 +74,7 @@ Psychology of Misunderstandings is a profound discipline. A successful Product M
 
 ### 22:00
 
-[![](Images/05E01359-B550-4BFE-838F-494777D9670E.png](https://www.youtube.com/watch?v=LWYefQWVCNs)
+[![](Images/05E01359-B550-4BFE-838F-494777D9670E.png)](https://www.youtube.com/watch?v=LWYefQWVCNs)
 
 That's me. I don't wanna crew members, who apply for a job, and then, when I did not reply w/in 2-3 days or 2-3 weeks or 2-3 months, have found another. The best people I have, we have flirted for ages.
 
