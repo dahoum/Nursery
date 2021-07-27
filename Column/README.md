@@ -76,7 +76,7 @@ Psychology of Misunderstandings is a profound discipline. A successful Product M
 
 [![](https://img.youtube.com/vi/LWYefQWVCNs/1.jpg)](https://www.youtube.com/watch?v=LWYefQWVCNs)
 
-That's me. I don't wanna crew members, who apply for a job, and then, if I did not reply w/in 2-3 days or 2-3 weeks or 2-3 months, have found another—the best people I have: we have flirted for ages.
+That's me. I don't wanna crew members, who apply for a job, and then, when I did not reply w/in 2-3 days or 2-3 weeks or 2-3 months, have found another. The best people I have, we have flirted for ages.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_bill-murray-in-tootsie-activity-6825882109303914496-sX0N)
 
