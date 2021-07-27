@@ -92,7 +92,7 @@ I have a few of those geniuses, and we are founding a Club of the Unhinged and R
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_there-is-a-kind-of-restless-and-unchanneled-activity-6825890825495441408-KZBX)
 
-### 28 July
+## 28 July
 
 ![](Images/8DBD82D9-30A0-4D45-A484-247D52D5CBFF.png)
 
