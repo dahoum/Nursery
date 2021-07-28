@@ -99,3 +99,11 @@ I have a few of those geniuses, and we are founding a Club of the Unhinged and R
 Employer or employee, if you want a good film about work-life-balance, Kramer v Kramer. Besides—if you havn't seen Dustin Hoffman as a young actor, you havn't seen Dustin Hoffman.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_employer-or-employee-if-you-want-a-good-activity-6825929087618453504-0axc)
+
+### 23:00
+
+![](Images/228366616_10159445948679555_6665568390506410386_n.jpg)
+
+"Where do you see yourself in 5 years?" is one of the poorest HR questions. Ever. Wait! One of the poorest things in business is the word "HR". People stopped being "resources" at the end of the Industrial Revolution. Just some people are still stuck in the past, the same way the school system is partially stuck in the Dark Ages. Good questions are: "Do you have a map?", "Where does the needle of your compass point to?", and "What does your map say in places, where it ends?" (Two options. The so so one: "Here be dragons.", and the good one: "Time for a new map!") The best question belongs to Lucifer Morningstar: "What is it that you truly desire?"
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_where-do-you-see-yourself-in-5-years-is-activity-6826258139550109696-TObv)
