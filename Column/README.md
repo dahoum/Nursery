@@ -110,7 +110,7 @@ Employer or employee, if you want a good film about work-life-balance, Kramer v 
 
 ## 29 July
 
-![](Bildschirmfoto_2021-07-29_um_22.31.31.png)
+![](Images/Bildschirmfoto_2021-07-29_um_22.31.31.png)
 
 Does the European Commission know they lost the cookie war? Most banners now have an easy "accept all" button, which turns on all cookies and a subtle and even painful process not to accept all cookies. So w/ the cookies we are exactly there, where we ended up w/ the war on terror: we undress at the airports.
 
