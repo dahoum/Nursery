@@ -123,3 +123,11 @@ Does the European Commission know they lost the cookie war? Most banners now hav
 [Peter HJ van Eijk](https://www.linkedin.com/in/pveijk/) wrote the other day about a conversation he had w/ someone at a CIO conference, who had said that "moving to the cloud did not save money". I supported Peter writing, that generally it is true and that cloud makes sense only when used in a cloudy way, eg. pay-per-use. And when it supports scenarios, which are difficult to impossible w/o cloud. Later, looking at the Fauna Limits, I was reminded of another way cloud is useful: it introduces runtime constraints, which in turn enforce discipline, which wasn't so readily enforceable in the pre-cloud times.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_peter-hj-van-eijk-wrote-the-other-day-about-activity-6828077187661381632-DLKl)
+
+### 3 August
+
+![](B5B1C807-2611-4E3F-8ED4-B3029B692B59.jpeg)
+
+FINE DINING I ate oysters at the same Le Bistrot de la Plage in Dunkirk where, apparently, Christopher Nolan once dined. The guy w/ the belly is the owner—a nice French guy, who speaks English, probably an alien. Christopher Nolan aside, the oysters were a disappointment—Brut de Mer in de Pijp in Amsterdam is still the #1 place to go: the oysters guy there has manners, tells stories and the 6 oysters selection is a culinary and geography journey along the coastlines of France, Ireland, the UK, and the Netherlands.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_fine-dining-i-ate-oysters-at-the-same-le-activity-6828095595165581312-Icfu)
