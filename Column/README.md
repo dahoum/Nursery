@@ -115,3 +115,11 @@ Employer or employee, if you want a good film about work-life-balance, Kramer v 
 Does the European Commission know they lost the cookie war? Most banners now have an easy "accept all" button, which turns on all cookies and a subtle and even painful process not to accept all cookies. So w/ the cookies we are exactly there, where we ended up w/ the war on terror: we undress at airports.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_does-the-european-commission-know-they-lost-activity-6826610675050139648-Y2jY)
+
+## 2 August
+
+![](Images/Bildschirmfoto_2021-08-02_um_23.34.38.png)
+
+[Peter HJ van Eijk](https://www.linkedin.com/in/pveijk/) wrote the other day about a conversation he had w/ someone at a CIO conference, who had said that "moving to the cloud did not save money". I supported Peter writing, that generally it is true and that cloud makes sense only when used in a cloudy way, eg. pay-per-use. And when it supports scenarios, which are difficult to impossible w/o cloud. Later, looking at the Fauna Limits, I was reminded of another way cloud is useful: it introduces runtime constraints, which in turn enforce discipline, which wasn't so readily enforceable in the pre-cloud times.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_peter-hj-van-eijk-wrote-the-other-day-about-activity-6828077187661381632-DLKl)
