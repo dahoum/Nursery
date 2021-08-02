@@ -126,7 +126,7 @@ Does the European Commission know they lost the cookie war? Most banners now hav
 
 ### 3 August
 
-![](B5B1C807-2611-4E3F-8ED4-B3029B692B59.jpeg)
+![](Images/B5B1C807-2611-4E3F-8ED4-B3029B692B59.jpeg)
 
 FINE DINING I ate oysters at the same Le Bistrot de la Plage in Dunkirk where, apparently, Christopher Nolan once dined. The guy w/ the belly is the owner—a nice French guy, who speaks English, probably an alien. Christopher Nolan aside, the oysters were a disappointment—Brut de Mer in de Pijp in Amsterdam is still the #1 place to go: the oysters guy there has manners, tells stories and the 6 oysters selection is a culinary and geography journey along the coastlines of France, Ireland, the UK, and the Netherlands.
 
