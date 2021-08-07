@@ -1,10 +1,10 @@
-# Nurseries
+# Nursery
 
-Nurseries is a collection of notes related to the "nurseries" part of the "[talent scouting](https://github.com/dahoum/TalentScouting/blob/main/Talent.md) & nurseries" label I have chosen to denote what I do professionally.
+Nursery is a collection of notes related to the "nurseries" part of the "talent scouting & nurseries" label I have chosen to denote what I do professionally.
 
-John le Carré calls, in his books, the MI6 training centre—"the nursery".
+John le Carré calls, in his books, the MI6 training centre "the nursery".
 
-Nurseries contains thoughts, [Practices](Practices/README.md), [People](People/FEADME.md) and ventures.
+The Nursery contains a [Column](https://github.com/dahoum/Nursery/tree/master/Column), where I reflect my current thoughts, [Practices](Practices/README.md), [People](People/FEADME.md) and ventures.
 
 I use Nurseries as a source of reminders and inspiration to:
 
