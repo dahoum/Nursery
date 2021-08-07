@@ -131,3 +131,11 @@ Does the European Commission know they lost the cookie war? Most banners now hav
 FINE DINING I ate oysters at the same Le Bistrot de la Plage in Dunkirk where, apparently, Christopher Nolan once dined. The guy w/ the belly is the owner—a nice French guy, who speaks English, probably an alien. Christopher Nolan aside, the oysters were a disappointment—Brut de Mer in de Pijp in Amsterdam is still the #1 place to go: the oysters guy there has manners, tells stories and the 6 oysters selection is a culinary and geography journey along the coastlines of France, Ireland, the UK, and the Netherlands.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_fine-dining-i-ate-oysters-at-the-same-le-activity-6828095595165581312-Icfu)
+
+### 7 August
+
+![](Images/Team_of_Rivals_cover.jpg)
+
+PULITZER TIME When one has the presumptuousness to call oneself talent scout, and especially if one has the sheer and dangerous luck to find some talent, the main challenge one faces before talent retention even becomes a topic is—dealing w/ the opinions of smart people, who might differ from one's own opinion. There is no light answer how this is to be done, not easily, but at all. But there are hints and clues and this book could be one such for you.
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_pulitzer-time-when-one-has-the-presumptuousness-activity-6829717519511650305-NljL)
