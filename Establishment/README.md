@@ -2,4 +2,4 @@
 
 ## Anti-Establishment
 
-## Citcle of Life/ Lifecycle
+## Circle of Life/ Lifecycle
