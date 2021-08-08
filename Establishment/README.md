@@ -1,3 +1,3 @@
 # Establishment
 
-## Amti-Establishment
+## Anti-Establishment
