@@ -142,6 +142,10 @@ PULITZER TIME When one has the presumptuousness to call oneself talent scout, an
 
 ### 9 August
 
+![](Images/2021-08-09_walt_disney_olympics.jpg)
+
+_Walt Disney, right, brought in Disneyland touches and changed the Olympic ceremonies forever._
+
 “Disney completely changed the modern day Olympics,” Goldberg said, “The pomp and circumstance we see today was 100 percent thanks to him. In fact, a lot of what you see in Disneyland trickled down into the Winter Olympics.”
 
 https://www.sfgate.com/disneyland/article/Disney-s-involvement-in-the-1960-Lake-Tahoe-16372725.php
