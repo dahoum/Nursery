@@ -101,7 +101,7 @@ DevOps can do System Work only from specially appointed machines w/ continuous s
 
 ### Kubernetes
 
-See Kubernetes [Security](https://github.com/dahoum/Nursery/blob/master/Kubernetes/README.md#security)
+See Kubernetes [Security](https://github.com/dahoum/Nursery/blob/master/Kubernetes/README.md#security).
 
 ## Incidents
 
