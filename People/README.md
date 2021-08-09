@@ -30,6 +30,12 @@ https://en.wikipedia.org/wiki/Leslie_Lamport
 
 ![](Portraits/William-S.-Burroughs-and-Patti-Smith.jpeg)
 
+## Dr.Theodore_Stephanides
+
+![](Image/Theodore_Stephanides_visiting_Corfu_with_the_BBC_in_1967.jpg)
+
+Theodore Stephanides visiting Corfu with the BBC in 1967.
+
 ## Vladimir Putin
 
 Teenage years, KGB and marriage:
