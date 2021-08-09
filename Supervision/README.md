@@ -7,14 +7,21 @@ Keywors
 
 Activity Keywords
 
+* `communicate`
 * `instruct`
 * `guide`
 * `monitor`
 * `observe`
+* `motivate`
 * `support`
+* `remove greivance` and `improve group unity`
 * `inform`
 
 ## Supervisor
+
+Keywords
+
+* `senior`
 
 ## Resources
 
