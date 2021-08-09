@@ -2,7 +2,7 @@
 
 ## Security
 
-![](Images/2021-08-09/nsa-cisa-release-kubernetes-hardening-guidance.jpg)
+![](Images/nsa-cisa-release-kubernetes-hardening-guidance.jpg)
 
 3 August 2021
 
