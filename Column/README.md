@@ -139,3 +139,13 @@ FINE DINING I ate oysters at the same Le Bistrot de la Plage in Dunkirk where, a
 PULITZER TIME When one has the presumptuousness to call oneself talent scout, and especially if one has the sheer and dangerous luck to find some talent, the main challenge one faces before talent retention even becomes a topic is—dealing w/ the opinions of smart people, who might differ from one's own opinion. There is no light answer how this is to be done, not easily, but at all. But there are hints and clues and this book could be one such for you.
 
 [_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_pulitzer-time-when-one-has-the-presumptuousness-activity-6829717519511650305-NljL)
+
+### 9 August
+
+“Disney completely changed the modern day Olympics,” Goldberg said, “The pomp and circumstance we see today was 100 percent thanks to him. In fact, a lot of what you see in Disneyland trickled down into the Winter Olympics.”
+
+https://www.sfgate.com/disneyland/article/Disney-s-involvement-in-the-1960-Lake-Tahoe-16372725.php
+
+h/t [Stephen M. Silverman](https://www.linkedin.com/in/stephen-m-silverman-3079333/), [Christian Kubsch](https://www.linkedin.com/in/christian-kubsch-b9229581/)
+
+[_published on LinkedIn_](https://www.linkedin.com/posts/dahoum_how-walt-disney-changed-the-olympic-games-activity-6830479490330714112-8L0u)
