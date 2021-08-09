@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Leslie_Lamport
 
 ## Dr.Theodore_Stephanides
 
-![](Image/Theodore_Stephanides_visiting_Corfu_with_the_BBC_in_1967.jpg)
+![](Portraits/Theodore_Stephanides_visiting_Corfu_with_the_BBC_in_1967.jpg)
 
 Theodore Stephanides visiting Corfu with the BBC in 1967.
 
