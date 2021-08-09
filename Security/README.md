@@ -97,6 +97,12 @@ DevOps can do System Work only from specially appointed machines w/ continuous s
 
 ### USB Ports
 
+## Technology
+
+### Kubernetes
+
+[Kubernetes](https://github.com/dahoum/Nursery/blob/master/Kubernetes/README.md#security)
+
 ## Incidents
 
 [Swedish Coop supermarkets shut due to US ransomware cyber-attack](https://www.bbc.com/news/technology-57707530), 3 July 2021
