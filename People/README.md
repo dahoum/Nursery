@@ -30,11 +30,11 @@ https://en.wikipedia.org/wiki/Leslie_Lamport
 
 ![](Portraits/William-S.-Burroughs-and-Patti-Smith.jpeg)
 
-## Dr.Theodore_Stephanides
+## Dr.Theodore Stephanides
 
 ![](Portraits/Theodore_Stephanides_visiting_Corfu_with_the_BBC_in_1967.jpg)
 
-Theodore Stephanides visiting Corfu with the BBC in 1967.
+Theodore Stephanides visiting Corfu with the BBC in 1967: https://youtu.be/P1gCBfADKmE.
 
 ## Vladimir Putin
 
