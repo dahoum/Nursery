@@ -2,9 +2,13 @@
 
 ## Mental
 
-![](Images/210816_r38818.jpg.webp)
+### DDD
 
-Finding a Way Back from Suicide
+see [DDD](../DDD/README.md)
+
+### Finding a Way Back from Suicide
+
+![](Images/210816_r38818.jpg.webp)
 
 A journey of recovery through electroconvulsive therapy.
 
