@@ -1,4 +1,4 @@
-# Universities
+# University
 
 ## Aalto University
 
