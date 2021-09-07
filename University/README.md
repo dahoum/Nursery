@@ -50,4 +50,4 @@ Martin Odersky
 
 Awards
 
-* 21 Nobel Prizes are associated w/ ETH Zürich
+* 32 Nobel Prizes are associated w/ ETH Zürich (#1 in Switzerland)
