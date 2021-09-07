@@ -38,4 +38,6 @@ https://www.linkedin.com/in/billatnapier/
 
 https://www.linkedin.com/posts/dahoum_for-every-ipad-that-we-buy-kids-at-school-activity-6815294465780129792-HBRd
 
-## ETH zürich
+## École polytechnique fédérale de Lausanne
+
+## ETH Zürich
