@@ -40,4 +40,10 @@ https://www.linkedin.com/posts/dahoum_for-every-ipad-that-we-buy-kids-at-school-
 
 ## École polytechnique fédérale de Lausanne
 
+### People
+
+Martin Odersky
+
+* https://de.wikipedia.org/wiki/Martin_Odersky
+
 ## ETH Zürich
