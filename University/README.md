@@ -46,4 +46,4 @@ Martin Odersky
 
 * https://de.wikipedia.org/wiki/Martin_Odersky
 
-## ETH Zürich
+## Eidgenössische Technische Hochschule Zürich/ ETH Zürich
