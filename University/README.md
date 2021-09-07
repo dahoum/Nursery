@@ -47,3 +47,7 @@ Martin Odersky
 * https://de.wikipedia.org/wiki/Martin_Odersky
 
 ## Eidgenössische Technische Hochschule Zürich/ ETH Zürich
+
+Awards
+
+* 21 Nobel Prizes are associated w/ ETH Zürich
