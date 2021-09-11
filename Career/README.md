@@ -1,4 +1,4 @@
-# Carreer
+# Career
 
 There are two types of carreer:
 
