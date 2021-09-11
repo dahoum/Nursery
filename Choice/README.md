@@ -1,6 +1,6 @@
 # Choice
 
-## Work/ Career 
+## Path/ Career 
 
 ### Anthony Bourdain
 
