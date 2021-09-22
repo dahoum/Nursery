@@ -51,3 +51,7 @@ Martin Odersky
 Awards
 
 * 32 Nobel Prizes are associated w/ ETH Zürich (#1 in Switzerland)
+
+Competence Centres
+
+* https://ethz.ch/en/research/interdisciplinary-structures/competence-centres.html 
