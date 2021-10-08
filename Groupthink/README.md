@@ -1,6 +1,6 @@
 # Groupthink
 
-## Irving Kanis
+## Irving Janis
 
 https://en.wikipedia.org/wiki/Irving_Janis
 
