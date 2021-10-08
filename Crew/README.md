@@ -8,6 +8,8 @@ A crew consists of individuals and here it is where we begin.
 
 ## Crew
 
+## Groupthink
 
+see [Groupthink](../Groupthink/README.md)
 
 ## More Than One Crew
