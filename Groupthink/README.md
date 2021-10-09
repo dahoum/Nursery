@@ -10,6 +10,14 @@
 
 [1](#1)
 
+## Origin
+
+https://en.wikipedia.org/wiki/William_H._Whyte
+
+"In 1952, Whyte coined the term "Groupthink":"
+
+> Groupthink being a coinage – and, admittedly, a loaded one – a working definition is in order. We are not talking about mere instinctive conformity – it is, after all, a perennial failing of mankind. What we are talking about is a rationalized conformity – an open, articulate philosophy which holds that group values are not only expedient but right and good as well <sup>[2](#2)</sup>
+
 ## Irving Janis
 
 https://en.wikipedia.org/wiki/Irving_Janis
@@ -33,3 +41,7 @@ https://hbr.org/2015/11/the-problem-solving-process-that-prevents-groupthink
 Making Dumb Groups Smarter
 
 https://hbr.org/amp/2014/12/making-dumb-groups-smarter
+
+### 2
+
+Fortune. pp. 114–117, 142, 146. (March 1952)
