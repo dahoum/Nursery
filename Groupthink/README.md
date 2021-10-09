@@ -4,7 +4,7 @@
 
 ### Silence the Leader
 
-[1](#1)
+"Leaders often promote self-censorship by expressing their own views early, thus discouraging disagreement. Leaders and high-status members can do groups a big service by indicating a willingness and a desire to hear uniquely held information. They can also refuse to take a firm position at the outset and in that way make space for more information to emerge. Many studies have found that members of low-status groups—including less-educated people, African-Americans, and sometimes women—have less influence within deliberating groups (and may self-silence). Leaders who model an open mind and ask for candid opinions can reduce this problem." [1](#1)
 
 ### Appoint a Devil’s Advocate
 
