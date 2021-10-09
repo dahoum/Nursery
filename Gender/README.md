@@ -15,3 +15,11 @@ Although Barry's entire adult life was lived as a man, Barry was named Margaret 
 https://hr-economictimes-indiatimes-com.cdn.ampproject.org/c/s/hr.economictimes.indiatimes.com/amp/news/workplace-4-0/diversity-and-inclusion/louvre-gets-its-first-ever-woman-boss-in-laurence-des-cars-more-than-2-centuries-after-opening/82998812
 
 Louvre gets its first-ever woman boss in Laurence des Cars, more than 2 centuries after opening
+
+## Articles
+
+### Women Aren’t Promoted Because Managers Underestimate Their Potential
+
+Yale Insights. Research.
+
+https://insights.som.yale.edu/insights/women-arent-promoted-because-managers-underestimate-their-potential 
