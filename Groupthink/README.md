@@ -1,5 +1,11 @@
 # Groupthink
 
+## Making Groups Smarter/ Wiser
+
+### Appoint a devil’s advocate
+
+[1](#1)
+
 ## Irving Janis
 
 https://en.wikipedia.org/wiki/Irving_Janis
@@ -17,3 +23,11 @@ https://hbr.org/2015/11/the-problem-solving-process-that-prevents-groupthink
 "The core principle of group creativity is that individuals working alone diverge, while group members working together converge."
 
 ## ...
+
+## Footnotes
+
+### 1
+
+Making Dumb Groups Smarter
+
+https://hbr.org/amp/2014/12/making-dumb-groups-smarter
