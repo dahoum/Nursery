@@ -2,7 +2,11 @@
 
 ## Making Groups Smarter/ Wiser
 
-### Appoint a devil’s advocate
+### Silence the Leader
+
+[1](#1)
+
+### Appoint a Devil’s Advocate
 
 [1](#1)
 
