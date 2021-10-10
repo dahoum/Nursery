@@ -5,7 +5,7 @@
 Focus
 
 * Cyber Security
-  * https://www.cysec.tu-darmstadt.de/cysec/index.de.jsp
+  * https://www.cysec.tu-darmstadt.de
 
 ## Aalto University
 
