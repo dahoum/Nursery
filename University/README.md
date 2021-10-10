@@ -68,3 +68,5 @@ Competence Centres
 ### Fluctuation of Students and Its Effects
 
 ![](Images/9DEA11F8-8EAA-483F-9504-5318E4424C0B.jpeg)
+
+The Science of Discworld, p. 85
