@@ -62,3 +62,9 @@ Awards
 Competence Centres
 
 * https://ethz.ch/en/research/interdisciplinary-structures/competence-centres.html 
+
+## Paradoxes
+
+### Fluctuation of Students and Its Effects
+
+![]()
