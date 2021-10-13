@@ -9,3 +9,9 @@
 https://www.bbc.com/news/world-us-canada-57773502
 
 _shared on LinkedIn_
+
+## Andrew Watson: The 'most influential' black footballer for decades lost to history
+
+11 October 2021
+
+https://www.bbc.com/sport/football/58841184
