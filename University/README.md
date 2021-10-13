@@ -53,6 +53,10 @@ Martin Odersky
 
 * https://de.wikipedia.org/wiki/Martin_Odersky
 
+Bertrand Piccard
+
+* https://www.linkedin.com/in/bertrandpiccard/
+
 ## Eidgenössische Technische Hochschule Zürich/ ETH Zürich
 
 Awards
