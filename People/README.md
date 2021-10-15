@@ -41,3 +41,9 @@ Theodore Stephanides visiting Corfu with the BBC in 1967: https://youtu.be/P1gCB
 Teenage years, KGB and marriage:
 
 https://www.bbc.co.uk/reel/video/p09j5hj3/how-putin-became-a-spy-and-married-lyudmila
+
+## Kenneth Branagh
+
+### Nine things we learned from his This Cultural Life interview
+
+https://www.bbc.co.uk/programmes/articles/47wt6NR9t1kwWLfRdKSNrv3/kenneth-branagh-nine-things-we-learned-from-his-this-cultural-life-interview
