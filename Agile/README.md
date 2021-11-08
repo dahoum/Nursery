@@ -6,6 +6,30 @@ The [Agile Manifesto](https://agilemanifesto.org) was in 2001. Before that, in 1
 
 Since then the amount of Agile methodologies, coaches and certifications has grown rapidly. To an extent, where the question should be asked: Is the original Agile dead? Or has it evolved to a point, where it should be renamed?
 
+## Agile is Faster and Cheapter than Waterfall, for the same scope
+
+### 1
+
+https://www.linkedin.com/posts/dahoum_sell-me-this-pen-for-the-same-scope-and-quality-activity-6861934014962384896-P5jW
+
+SELL ME THIS PEN For the same scope and quality, Agile delivers faster and cheaper than Waterfall. I am T. E. Shaw, and I can tell you why.
+
+### 2
+
+https://www.linkedin.com/posts/dahoum_one-of-the-reasons-why-agile-is-faster-and-activity-6863473280511184896-kacg
+
+One of the reasons why Agile is faster and cheaper than Waterfall—for the same scope, is that it allows nearly zero possibility for people to hide behind bureaucracy.
+
+Details—
+
+A couple of years ago I was helping a company to fix productivity and discovered, that their three departments were busy chasing their own tails, writing emails, creating tickets and comments in their separate ticketing systems, w/ overall result—zero.
+
+"Individuals and Interactions", the first three words of the Agile Manifesto, tear down these walls and remove the possibilities to hide, improving productivity dramatically and reducing risk.
+
+I have not heard of anybody else to has applied 20/80 Pareto onto the Agile Manifesto—I did apply it. The Manifesto is 4 lines. If you take the 1st line you have 25% of it, so if you do "Individuals and Interactions" correctly, you should have successfully implemented more than 80% of Agile.
+
+Need help? Call me.
+
 ## Teaching Common Sense
 
 There is another case, where something similar has happened and this is Design Thinking. Design Thinking begins w/ "empathy", which should be common sense. Not only in interpersonal relationships, but also (and especially) towards a customer. And still, it is taught. Why?
