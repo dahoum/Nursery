@@ -18,7 +18,7 @@ On this page rules the `Scientific Method`. Nothing is `Holy`. However if you wa
 
 "I do not want to be a pin-up-girl. I want to be an actress. And I hope I can be an actress until I am 90."
 
-![]()
+![](Images/B9080316-D474-42C9-819C-068B768E3995.png)
 
 ## Computing
 
