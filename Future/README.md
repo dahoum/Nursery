@@ -1,4 +1,4 @@
-# Futures
+# Future
 
 https://en.wikipedia.org/wiki/Futures_studies
 
@@ -11,6 +11,14 @@ On this page I keep my views on the Futures.
 They are all my oroginal ideas. I may have and for sure have been inspired to have them, by facts, events, people and ideas. I may have even encountered them and then forgotten the encounter, thinking they are mine. So, in my honest opinion, they are mine, until I realise it is otherwise.
 
 On this page rules the `Scientific Method`. Nothing is `Holy`. However if you want to criticise something, make sure you have a better idea.
+
+## Personal
+
+### Sophia Loren
+
+"I do not want to be a pin-up-girl. I want to be an actress. And I hope I can be an actress until I am 90."
+
+![]()
 
 ## Computing
 
