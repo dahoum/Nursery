@@ -14,6 +14,10 @@ On this page rules the `Scientific Method`. Nothing is `Holy`. However if you wa
 
 ## Personal
 
+### Muhamad Ali
+
+### Maradona
+
 ### Sophia Loren
 
 "I do not want to be a pin-up-girl. I want to be an actress. And I hope I can be an actress until I am 90."
