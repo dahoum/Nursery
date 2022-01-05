@@ -6,6 +6,6 @@ The concept has been brought up by Albert Mehrabian (https://en.wikipedia.org/wi
 
 While its scientificity is disputed, and the actual distribution (if any) depends based on person and situation, the Gedankenexperiment is worth a consideration.
 
-## Turn On Your Camera
+## Turn Your Camera On
 
 ...
