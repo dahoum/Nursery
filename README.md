@@ -1,16 +1,13 @@
 # Nursery
 
-Nursery is a collection of notes related to the "nurseries" part of the "talent scouting & nurseries" label I have chosen to denote what I do professionally.
+Nursery is a collection of notes related to the "nurseries" part of the "talent scouting & nurseries" activity, which in turn is part of my "une éminence grise" activity, which describest most of what I do nowadays.
 
 John le Carré calls, in his books, the MI6 training centre "the nursery".
 
-The Nursery contains a [Column](https://github.com/dahoum/Nursery/tree/master/Column), where I reflect my current thoughts, [Practices](Practices/README.md), [People](People/FEADME.md) and ventures.
+I use Nurseries as a source of reminders and inspiration to
 
-I use Nurseries as a source of reminders and inspiration to:
-
-* develop talent
-* help the establishment and growth of Practices
-* help structuring startups and scale ups as well as restructuring organisations
+* discover, and
+* develop talent and opportunities
 
 ## Inspiration
 
@@ -32,4 +29,4 @@ My Family And Other Animals, Gerald Durrell
 
 I help gladly.
 
-Check my [LinkedIn](https://www.linkedin.com/in/dahoum/) and if you still want to talk to me, drop me a line at t.e.shaw@dahoum.wales.
+Check my [LinkedIn](https://www.linkedin.com/in/dahoum/) and if you still want to talk to me, write to me at t.e.shaw@dahoum.wales.
