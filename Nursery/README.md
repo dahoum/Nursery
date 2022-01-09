@@ -22,7 +22,7 @@ At some point an `inflection point` is reached by those, who can, want and do; w
  |                         |    ⁄
  |                         |  ⁄
  |                         |⁄
- |------------------------⁄|------------------ mentoring horizont
+ |------------------------⁄|------------------ mentoring horizon
  |                      ⁄  |
  |                    ⁄    |
  |                  ⁄      |
