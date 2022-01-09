@@ -2,7 +2,7 @@
 
 ## Periods/ Modus Operandi
 
-In my work w/ talent there are two periods or moduis operandi.
+In my work w/ talent there are two periods or modus operandi.
 
 The first is after I discover the talent and before they begin to believe in it it, before they decide they want to pursue it and before they become not only ready to make the effort, but actually making it. During this period I pull and they get pulled. I convince, and they doubt.
 
