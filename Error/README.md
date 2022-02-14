@@ -6,7 +6,7 @@ by James Reason
 
 ![](Images/9F8DE2CA-9AE1-4E99-A7C2-C9E14492A151.jpeg)
 
-### James Reason Articles
+### Articles by James Reason
 
 James Reason: Patient Safety, Human Error, and Swiss Cheese
 
