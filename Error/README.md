@@ -2,7 +2,7 @@
 
 ## Human Error
 
-... book
+![]()
 
 ### James Reason Articles
 
@@ -13,6 +13,10 @@ James Reason: Patient Safety, Human Error, and Swiss Cheese
 James Reason’s 12 Principles of Error Management
 
 [URL](http://aerossurance.com/helicopters/james-reasons-12-principles-error-management/)
+
+James Reason' Swiss Cheese Model of of Accident Causation
+
+[URL](https://skybrary.aero/articles/james-reason-hf-model)
 
 ### Related
 
