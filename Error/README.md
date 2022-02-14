@@ -4,7 +4,11 @@
 
 ... book
 
-... article Healthcare
+### James Reason Articles
+
+James Reason: Patient Safety, Human Error, and Swiss Cheese
+
+![PDF]()
 
 ... article Aerospace
 
