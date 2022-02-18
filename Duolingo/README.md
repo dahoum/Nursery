@@ -48,8 +48,12 @@ Par example for French:
 
 ### How to earn a lot of points
 
+#### Use the app
+
+The website gives less points and does not have all the features.
+
 #### Rehearse
 
-Rehearsing gives you 20 XP.
+Rehearsing gives you, once a day per lesson, 20 XP.
 
-![](Images/)
+![](Images/6DC22E7C-E266-40E1-9743-3FE0F403BA22.png)
