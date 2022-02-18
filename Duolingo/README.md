@@ -42,3 +42,14 @@ In the background your brain recognises some, remembers the proximity of others,
 
 Par example for French:
 
+...
+
+## Advanced
+
+### How to earn a lot of points
+
+#### Rehearse
+
+Rehearsing gives you 20 XP.
+
+![](Images/)
