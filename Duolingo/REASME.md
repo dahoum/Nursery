@@ -8,5 +8,13 @@ Indeed, Duolingo is, _of course_, not enough to learn a language!
 
 But it is the funnest way to crack the nut!
 
-## Duolingo _is_ fun
+## Paragon of _intuitive_
+
+Duolingo does not have the remotest resemblance of Introduction, Help or Tutorial.
+
+You open it, and you know how it works, all the way through.
+
+## Addictive
+
+## Fun
 
