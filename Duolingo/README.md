@@ -50,7 +50,7 @@ Par example for French:
 
 ## Advanced
 
-### How to male a lot of points
+### How to make a lot of points
 
 What do you need points for?
 
