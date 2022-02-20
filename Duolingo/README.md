@@ -52,7 +52,7 @@ If you are one of these annoying people, who do not fully appreciate the culture
 
 > Je bois du thé et mange du gâteau.
 
-![](Images/)
+![](Images/C3A92745-5D62-41B8-9E21-D1CDDC780778.jpeg)
 
 ### Listen to the language (radio, TV, films, etc.)
 
