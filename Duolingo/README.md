@@ -38,6 +38,16 @@ But as in any profession, Duolingo is one of the tools, and to me: a great first
 
 What can you do in parallel?
 
+### How far can Duolingo bring you?
+
+Very.
+
+Already after just a few lessons you can say everything you will ever need in French.
+
+> Je bois du vin et mqnge du fromage.
+
+![]()
+
 ### Listen to the language (radio, TV, films, etc.)
 
 Listening teaches your ear to recognise words.
