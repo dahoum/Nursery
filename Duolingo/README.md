@@ -46,7 +46,7 @@ Already after just a few lessons you can say everything you will ever need in Fr
 
 > Je bois du vin et mqnge du fromage.
 
-![](BE2317D4-FD06-4EE8-943D-8D34FF20A98A.jpeg)
+![](Images/BE2317D4-FD06-4EE8-943D-8D34FF20A98A.jpeg)
 
 ### Listen to the language (radio, TV, films, etc.)
 
