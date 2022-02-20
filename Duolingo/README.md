@@ -42,11 +42,17 @@ What can you do in parallel?
 
 Very.
 
-Already after just a few lessons you can say everything you will ever need in French.
+Already after just a few lessons you can say everything you will ever need in French:
 
 > Je bois du vin et mqnge du fromage.
 
 ![](Images/BE2317D4-FD06-4EE8-943D-8D34FF20A98A.jpeg)
+
+If you are one of these annoying people, who do not fully appreciate the culture of the countries you invade, you can say instead!
+
+> Je bois du thé et mange du gâteau.
+
+![](Images/)
 
 ### Listen to the language (radio, TV, films, etc.)
 
