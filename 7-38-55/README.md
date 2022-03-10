@@ -6,6 +6,8 @@ The concept has been brought up by Albert Mehrabian (https://en.wikipedia.org/wi
 
 While its scientificity/ statistical quality are disputed, and the actual distribution (if any) depends based on person and situation, the Gedankenexperiment is worth a consideration and not entirely w/o merit.
 
+![](Images/when-I-walk-into-a-room.png)
+
 ## Turn Your Camera On
 
 ...
