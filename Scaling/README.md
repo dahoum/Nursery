@@ -1,4 +1,4 @@
-# Scalomg
+# Scaling
 
 ## # of people
 
