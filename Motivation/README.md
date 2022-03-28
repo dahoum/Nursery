@@ -27,7 +27,7 @@ Importance ^
 
 `PfPD` Potential for Personal Development
 
-    Stuff that is not important at this particular moment, but motivates you. Do it, because it makes you grow.
+ Stuff that is not important at this particular moment, but motivates you. Do it, because it makes you grow.
 
 `D` delegate 
 
