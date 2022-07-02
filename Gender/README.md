@@ -24,7 +24,7 @@ Yale Insights. Research.
 
 https://insights.som.yale.edu/insights/women-arent-promoted-because-managers-underestimate-their-potential 
 
-## Quites
+## Quotes
 
 "A Him gets noticed, a Her gets ignored. And for once, we'd like to be ignored," Ocean‘s 8
 
