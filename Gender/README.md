@@ -23,3 +23,9 @@ Louvre gets its first-ever woman boss in Laurence des Cars, more than 2 centurie
 Yale Insights. Research.
 
 https://insights.som.yale.edu/insights/women-arent-promoted-because-managers-underestimate-their-potential 
+
+## Quites
+
+"A Him gets noticed, a Her gets ignored. And for once, we'd like to be ignored," Ocean‘s 8
+
+* LinkedIn https://www.linkedin.com/posts/dahoum_gender-a-him-gets-noticed-a-her-gets-ignored-activity-6949029385479835648-PsEM
