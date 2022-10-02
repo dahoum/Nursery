@@ -1,3 +1,7 @@
+# Migration
+
+This Nursery is being migrate to https://dahoum.wales
+
 # A Warning
 
 Here's dull of raw material. If you'd like to read something more intelligable, check my Medium publication
