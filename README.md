@@ -2,12 +2,6 @@
 
 This Nursery is being migrate to https://dahoum.wales
 
-# A Warning
-
-Here's dull of raw material. If you'd like to read something more intelligable, check my Medium publication
-
-https://medium.com/dahoum
-
 # Nursery
 
 Nursery is a collection of notes related to the "nurseries" part of the "talent scouting & nurseries" activity, which in turn is part of my "une éminence grise" activity, which describest most of what I do nowadays.
