@@ -7,7 +7,7 @@ h/t [Wichtigkeit-Motivations-Prinzip](https://www.streuverluste.de/fuehrung-mana
 ```
 Importance ^
            |
-      high |  D, GH, ChA         1, DM, D                 2
+      high |  D <-- GH --> ChA   1, DM, D                 2
            |         
            |
            |
@@ -21,6 +21,8 @@ Importance ^
               These              Procrastination          Personal Development
               Activities
 ```
+`D <-- GH --> ChA` is my contribution. The original was `D, GH, ChA`
+
 `1` do during your most productive time and before `2`
 
 `2` can be done even after lunch, but in any case after `1`
