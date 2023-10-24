@@ -12,7 +12,7 @@ Importance ^
            |
            |
            |
-       low |  G                  3, D, G                  PfPD
+       low |  G                  3, D <-- GH --> ChA, G   PfPD
            |
            +--------------------------------------------------------------> Motivation      
               demotivates me     does not motivate me     motivates me
