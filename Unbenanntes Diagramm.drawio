@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.1">
   <diagram name="Seite-1" id="r1QjtIdLRNZ6yc1zuPKi">
-    <mxGraphModel dx="8" dy="5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_19qDUszDMYVY8KUCl5t-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
-          <mxGeometry x="20" y="380" width="100" height="100" as="geometry" />
+          <mxGeometry x="20" y="410" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_19qDUszDMYVY8KUCl5t-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="265" width="240" height="395" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="_19qDUszDMYVY8KUCl5t-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="414" y="346" width="50" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_19qDUszDMYVY8KUCl5t-15" value="Phone and email handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="346" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
