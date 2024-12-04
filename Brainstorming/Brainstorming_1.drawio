@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.1">
   <diagram name="Seite-1" id="r1QjtIdLRNZ6yc1zuPKi">
-    <mxGraphModel dx="1225" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,78 @@
         </mxCell>
         <mxCell id="_19qDUszDMYVY8KUCl5t-15" value="Phone and email handler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="464" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-2" value="Phone and email handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="412.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="392.5" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-4" value="Phone entered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="849" y="360.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-5" value="Email entered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="849" y="460.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-6" value="What if both are entered?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="849" y="552.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-7" value="Do we have it in the DB?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="360.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-8" value="Do we have it in the DB?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="463.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QIPegM4UDsKNxBoQBMO_-4" target="QIPegM4UDsKNxBoQBMO_-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="512.5" as="sourcePoint" />
+            <mxPoint x="1000" y="462.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QIPegM4UDsKNxBoQBMO_-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="492.5" as="sourcePoint" />
+            <mxPoint x="1024" y="400.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QIPegM4UDsKNxBoQBMO_-8" target="QIPegM4UDsKNxBoQBMO_-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="512.5" as="sourcePoint" />
+            <mxPoint x="1000" y="462.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-12" value="No" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="427.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1076" y="444.5" as="sourcePoint" />
+            <mxPoint x="1181" y="445.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-14" value="Continue to Registration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="412.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QIPegM4UDsKNxBoQBMO_-7" target="QIPegM4UDsKNxBoQBMO_-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="422.5" as="sourcePoint" />
+            <mxPoint x="1280" y="182.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="312.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-16" value="Continue to Check and Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="412.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIPegM4UDsKNxBoQBMO_-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QIPegM4UDsKNxBoQBMO_-8" target="QIPegM4UDsKNxBoQBMO_-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1084" y="370.5" as="sourcePoint" />
+            <mxPoint x="1420" y="422.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="602.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
